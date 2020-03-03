@@ -1,0 +1,3117 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="zat_a2_linker_b14_quest_done_0">
+		<text>Havia um estranho artefato na estaзгo de dragagem. Aqui.</text>
+	</string>
+	<string id="zat_a2_linker_b14_quest_done_1">
+		<text>Interessante... Um semiartefato. Aqui estб a sua recompensa. Eu pago bem para um trabalho bem feito... Vocк parece ter uma boa educaзгo. Venha me ver quando vocк precisa trabalhar. Costumo receber ordens para certos artefatos, e o salбrio й mais do que justo.</text>
+	</string>
+	<string id="zat_a2_linker_b14_quest_sell_artefact_0">
+		<text>Pegue esse semiartefato.</text>
+	</string>
+	<string id="zat_a2_linker_b14_quest_init_2">
+		<text>Eu jб entreguei todos os trabalhos que eu tinha para hoje.</text>
+	</string>
+	<string id="zat_a2_linker_b14_quest_init_12">
+		<text>Agora nгo.</text>
+	</string>
+	<string id="zat_a2_linker_b14_quest_init_0">
+		<text>Quer trabalhar pra mim?</text>
+	</string>
+	<string id="zat_a2_linker_b14_quest_init_1">
+		<text>Tenho uma coisinha...  Noite passada stalkers viram uma espйcie de brilho estranho na estaзгo de dragagem. Muito estranho mesmo para a бrea. Por que vocк nгo vai da uma olhada?</text>
+	</string>
+	<string id="zat_a2_linker_b14_quest_init_111">
+		<text>Tenha muito cuidado lб fora. Estou avisando, que o lugar estб cheio de radiaзгo. Nгo esqueзa seus medicamentos. Vocк vai me agradecer.</text>
+	</string>
+	<string id="zat_a2_linker_b14_quest_init_11">
+		<text>Eu vou.</text>
+	</string>
+	<string id="zat_a2_linker_b14_quest_wrong_1">
+		<text>Desculpe, eu nгo acho que deseja enganar. Minhas regras sгo muito simples: Vocк me traz, eu te pago. Vocк sabe como funciona na Zona: mantenha os olhos abertos, aja rбpido e nгo confie em ninguйm que nгo possa derrubar.  Mas se vocк precisar trabalhar fixo, eu sou seu homem. Costumo receber ordens por certos artefatos, e o salбrio й mais do que justo.</text>
+	</string>
+	<string id="zat_a2_linker_b14_quest_strange_item_1">
+		<text>Interessante, й um semiartefato... Dou 3.000 parece um preзo justo para tirar ele de suas mгos.</text>
+	</string>
+	<string id="zat_a2_linker_b14_quest_sell_artefact_1">
+		<text>Aqui estб o seu pedaзo do bolo. Eu pago bem por um trabalho bem feito. Vocк parece ter uma boa educaзгo. Venha me ver quando vocк precisar trabalhar. Costumo receber pedidos por certos "artefatos" e pagam muito bem.</text>
+	</string>
+	<string id="zat_a2_linker_b14_quest_strange_item_0">
+		<text>Peguei um estranho artefato na estaзгo de dragagem. Quer ver?</text>
+	</string>
+	<string id="zat_a2_linker_b14_quest_wrong_0">
+		<text>Eu vi que alguйm lhe trouxe um artefato que eu encontrei.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_0">
+		<text>Quais artefatos vocк precisa?</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_11">
+		<text>Vou pegar um Gravi.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_112">
+		<text>Excelente! Foi rбpido. Aqui estб sua recompensa.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_12">
+		<text>Vou pegar um Olho.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_13">
+		<text>Conseguirei uma Bolha.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_14">
+		<text>Conseguirei uma Concha.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_15">
+		<text>Conseguirei um Peixe-dourado.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_16">
+		<text>Conseguirei uma Flama.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_17">
+		<text>Conseguirei um Vagalume.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_18">
+		<text>Conseguirei um Floco de Neve.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_19">
+		<text>Eu lhe vendo um Gravi.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_2">
+		<text>Algo estranho acontece aqui... Os rapazes pegam um trabalho e logo desaparecem... Estou com maus pressentimentos. Fecharei a loja.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_20">
+		<text>Eu lhe vendo um Olho.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_21">
+		<text>Eu lhe vendo uma Bolha.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_22">
+		<text>Eu lhe vendo uma Concha.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_23">
+		<text>Eu lhe vendo um Peixe-dourado.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_24">
+		<text>Eu lhe vendo uma Flama.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_25">
+		<text>Eu lhe vendo um Vagalume.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_26">
+		<text>Eu lhe vendo um Floco de Neve.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_27">
+		<text>Entendido. Eu voltarei logo.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_give_adv_task_0">
+		<text>A missгo estб cumprida.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_3">
+		<text>As equipes que trabalhavam para mim estгo desaparecendo. Entгo decidi nгo receber encomendas por enquanto.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_give_adv_task_1">
+		<text>Excelente! Aqui estб sua recompensa.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_give_adv_task_2">
+		<text>Aqui. Pode nгo ser muito, mas й alguma coisa.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_info_0">
+		<text>Fale-me sobre seus pedidos de artefatos.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_about_sci_guards_0">
+		<text>Quem poderia me contratar para proteger os cientistas?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_about_sci_guards_1">
+		<text>Meus rapazes. Spartacus e sua tripulaзгo. Andaram por aqui ultimamente. Alguns eram guardas de seguranзa antes de vir para a Zona e alguns vкm das forзas especiais da policia, acredite ou nгo. Eles sabem usar uma arma. Se estiverem disponнveis, eles podem dar uma boa seguranзa.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_about_sci_helpers_0">
+		<text>Quem eu poderia contratar para fazer mediзхes para os cientistas?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_about_sci_guards_2">
+		<text>Eu os aconselharia a vocк, mas pelos acontecimentos recentes... A tripulaзгo de Spartacus partiu dessa para melhor.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_about_sci_helpers_1">
+		<text>Conhece Gonta e seus rapazes? Quando nгo й a temporada de caзa, estгo...ahem... dispostos a aceitar trabalhos. Especialmente quando nгo hб tiros envolvidos. Como eles dizem, para treinar pontaria nada melhor que na caзada.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_about_sci_helpers_2">
+		<text>Na verdade ninguйm. Recomendaria os rapazes da Gonta, mas faz muito tempo que nгo se tem noticias deles.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1">
+		<text>Essa pergunta foi ampla. Tente fazer perguntas especнficas que farei o meu melhor para respondк-las.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_0">
+		<text>Diga-me como й a vida aqui.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1111">
+		<text>O que os stalkers fazem aqui?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1112">
+		<text>O que leva os stalkers ao centro da Zona?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11111">
+		<text>Pergunte a si mesmo. Vкm do Skadovsk para exploraзгo em busca de artefatos, atirando em tudo e todos que correm em sua direзгo. Eles voltam a Skadovsk para ficarem bкbados e tagarelar... Descansam e relaxam antes da prуxima incursгo. Mas quando hб uma emissгo, as coisas sгo diferentes. Й quando todos nуs sentamos apertados e pensamos naqueles que nгo se protegeram a tempo.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11121">
+		<text>Boa pergunta. Alguns foram descobrir uma mina de artefatos. Outros pelos rumores do Oasis. Outros atrбs do Granter. E depois o desejo humano: a ganвncia e a curiosidade. Todos tкm suas razхes. Vocк tambйm terб a sua.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1113">
+		<text>Como vocк parou por aqui?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11131">
+		<text>Eu vim aqui com Grouse apуs o Scorcher ter sido desativado. Mas eu tenho certeza que nгo й isso que vocк quer saber, estou certo? Eu lido com artefatos. O exterior й cheio de bugigangas, os clientes importantes querem coisas raras. Decidi montar um acampamento stalker, para que os artigos realmente valiosos pudessem ser encontrados. Veja bem, quando um stalker volta com seu saque, do que ele precisa? Algo refrescante nas mгos e o bom e velho contato humano. Aн estб o porquк do Skadovsk.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1114">
+		<text>O que vocк acha dos bandidos?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11141">
+		<text>As coisas sгo como tem que ser. Nгo tenho nada contra eles a bordo do Skadovsk, desde que se comportem. A final, nгo й todo dia que se encontram otбrios assim. Alguns deles na verdade jб foram stalkers. Quem sabe? Pode ser que alguns desses desgraзados desistam do negуcio sujo antes de levar um tiro... A vida й cheia de surpresas.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11151">
+		<text>Se vocк estб dizendo...</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_army_0">
+		<text>Me diga, tem aparecido algum militar por aqui?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_about_compass_0">
+		<text>Me fale sobre a Bъssola.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_about_compass_12">
+		<text>Pensarei sobre isso.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_about_halfart_jup_b1_0">
+		<text>Encontrei um estranho artefato prуximo a Yanov. Estб interessado?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1115">
+		<text>Nгo, tudo bem. Esqueзa isso.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_army_1">
+		<text>Pense um pouco. O que estes milicos estгo fazendo em nosso acampamento? Confie em mim quando eu digo, eles preferem controlar este lugar. Muitos de nуs aqui se lembram de como era rastejar pela sujeira no Cordon, sob o fogo de suas malditas metralhadoras...</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_about_compass_1">
+		<text>O artefato й a matйria-prima de lendas. Dizem que a Bъssola nгo tem efeitos prejudiciais e se usada sabiamente, pode te guiar em qualquer anomalia. Vocк pode ver o porquк os clientes faziam fila para tocб-la. Outro dia alguйm me falou que Noah sabe alguma coisa sobre isso. Ele й um stalker que vive ao sul daqui.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_about_compass_11">
+		<text>Estб bem, eu vou pagar uma visita a Noah.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_about_compass_2">
+		<text>Como eu disse, й um artefato lendбrio. Eles disseram que um stalker chamado Noah pode saber alguma coisa sobre isso. Ele vive ao sul daqui.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_about_new_detector_0">
+		<text>Owl disse que vocк nгo irб cumprir sua parte do acordo.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_about_new_detector_11">
+		<text>O que devo dizer a Owl?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_about_new_detector_2">
+		<text>Suponho que sim.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_about_new_detector_1">
+		<text>Nуs deixamos bem claro: Eu pego os detectores, coloco eles para funcionar, e ele pega parte do rendimento. Eu paguei a ele dois detectores, entгo estou cumprindo com o acordo. Esta й grande parte do meu trato com Owl. Se vocк trabalha para ele, pode levar o terceiro detector. Nгo vou compra-lo.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_about_new_detector_3">
+		<text>Eu nгo faria trato com Owl se fosse vocк. Se vocк estб visando fazer uma boa grana, eu posso te dar uma ideia na caзa de artefatos. Duas ou trкs horas, й o suficiente para derrotar todos. Alйm disso, se te interessa, tenho uma oferta especial. Veja, eu preciso urgentemente de um artefato chamado Bъssola.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_about_halfart_jup_b1_1">
+		<text>Venha, dк uma olhada... Com certeza й um item curioso, mas nгo acredito que encontrarei um comprador para ele. Eu sugiro que volte para Yanov e mostre aos cientistas. Coisas esquisitas como essa os deixam com бgua na boca.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_compass_double_dialog_0">
+		<text>Sultan conseguiu interceptar a Bъssola.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_compass_give_dialog_0">
+		<text>Eu encontrei a Bъssola. Toma.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_compass_revert_dialog_0">
+		<text>Eu me recuso a buscar uma Bъssola para vocк.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_compass_revert_dialog_1">
+		<text>Que pena. Em fim...</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_take_business_actor_dialog_0">
+		<text>Sultan manda saudaзхes. No entanto, todos os canais de suprimentos estгo cortados.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_take_money_actor_dialog_0">
+		<text>Dк-me minha parte.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_take_money_actor_dialog_1">
+		<text>Aн tem.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_take_money_actor_dialog_2">
+		<text>Chegou cedo. Eu ainda nгo tenho o dinheiro.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b52_about_nimble_0">
+		<text>Vocк acha que Nimble negociarб com material roubado?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b52_about_snag_0">
+		<text>Estou procurando por Snag. Sabe onde posso encontrб-lo?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b52_about_snag_1">
+		<text>Da ultima vez que o vi, ele estava saindo de um bar. Se me lembro bem na conversa do bar, ele estava indo para os guindastes no pнer.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b7_actor_start_0">
+		<text>Alguйm planeja atacar um grupo de stalkers. Nosso prуprio pessoal.</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_b40_about_merc_camp_1">
+		<text>Vocк deveria ficar fora disso. Nгo й assunto seu.</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_b40_about_merc_camp_0">
+		<text>O que estes mercenбrios fazem na estaзгo de tratamento de resнduos?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_start_dialog_51">
+		<text>Bem?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_start_dialog_41">
+		<text>Acaba de surgir algo. Dizem que os bandidos planejam comprar um lote de armas, Nossos homens querem segui-los e estragar a transaзгo. Agradecerнamos qualquer ajuda.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_start_dialog_33">
+		<text>Vocк estб atrasado, Alguйm jб entregou este artefato. Mas jб que vocк cumpriu meu pedido, posso pagar por ele. Mas nгo muito.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_start_dialog_32">
+		<text>Como vai meu pedido? Lembra-se: o stalker mais rбpido leva a maior grana.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_start_dialog_31">
+		<text>Como vocк se sente sobre ganhar algum dinheiro em busca de artefatos?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_start_dialog_21">
+		<text>Adiante.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_start_dialog_11">
+		<text>Vocк й novo por aqui? Estб tudo bem, se adaptarб em breve... Vocк sabe, a Zona й uma difнcil aprendizagem. Eu sou Beard, o atendente do bar local. Tem alguma pergunta, venha atй mim.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_oasis_art_sell_1">
+		<text>O Coraзгo do Oasis? Ahh, acho que passarei. As pessoas dizem todo tipo de coisa... Podem ser puras superstiзхes, mas prefiro ficar distante. Acho que vocк faria bem se entregasse aos cientistas. Deixar que eles o estudassem e nos dк uma melhor compreensгo de como isso afeta as pessoas.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_oasis_art_sell_0">
+		<text>Tenho um artefato do Oasis. Estб interessado?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b7_actor_start_1112">
+		<text>Desculpa, vocк estб sozinho.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b7_actor_start_11111">
+		<text>Tб legal, vamos ver esses otбrios e eu irei falar com os caras.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b7_actor_start_1111">
+		<text>Concordo.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b7_actor_start_111">
+		<text>Buraco de merda... Estaria ficado bem se tivesse aceitado a oferta, Sabe para onde vou?... A essa altura, eu poderia chamar meus meninos para fora para preparar uma recepзгo aos nossos clientes.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b7_actor_start_11">
+		<text>Eu tenho uma oferta para atacar o acampamento prуximo a Shevchenko durante a noite.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b7_actor_start_1">
+		<text>Porra!... Os bandidos se multiplicam como coelhos, e agora nos lutaremos entre nуs mesmos?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_compass_double_dialog_1">
+		<text>Esse desgraзado tem um inseto no rabo... certo, nada demais. Tente falar com Noah novamente. De acordo com os ъltimos rumores, pode ser que seja... ъtil.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_compass_give_dialog_1">
+		<text>Vocк salvou minha vida! Agora posso dizer que coloquei um cliente importante ao meu lado. Rumores dizem que Sultan queria assumir meus negуcios. Ele terб uma decepзгo amarga, mas merecida. Aqui, pegue isso. Vocк tem sido leal.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_take_business_actor_dialog_1">
+		<text>Й уbvio quem й que anda por trбs de tudo isso... Bom, eu nгo estou deixando Skadovsk. Parece que nгo tenho escolha, trabalhar para vocк e Sultan. Ele levarб parte nas vendas, e vocк virб todos os dias pegar a sua parte. O dinheiro estarб esperando.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b52_about_nimble_1">
+		<text>Duvido... Pelo o que eu sei sobre ele, ele prefere deixar as coisas suspeitas para os outros, Um bom negociador de valores, com nome e reputaзгo. Na verdade eu nunca ouvi ninguйm dizer nada de ruim sobre Nimble.</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_bunker_guarding_0">
+		<text>Vocк gosta de trabalhar para os cientistas?</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_bunker_guarding_1">
+		<text>Bastante. Me alegro que tenha vindo atй nуs. Nуs somos a melhor proteзгo que os cientistas podem ter.</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_come_with_me_0">
+		<text>Estou reunindo um esquadrгo para ir a Pripyat. Vocк vai nos acompanhar?</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_come_with_me_1">
+		<text>Nгo. Nгo posso perder os cientistas de vista... Vocк poderia tentar falar com Sokolov - Eu me lembro de que ele queria ir a Pripyat.</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_come_with_me_2">
+		<text>Nгo. Nгo posso perder de vista os cientistas... Estamos aqui para protegк-los.</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_come_with_me_3">
+		<text>Aham... Nгo, meu lugar й aqui por enquanto.</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_0">
+		<text>Vocк gostaria de trabalhar para os cientistas?</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_1">
+		<text>Isso depende... Qual o tipo de trabalho?</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_11">
+		<text>Proteger seu bunker.</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_111">
+		<text>Claro, e obrigado pela oferta.</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_12">
+		<text>Fazendo mediзхes em anomalias.</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_121">
+		<text>Esse tipo de trabalho nгo й para nуs. Melhor perguntar aos stalkers.</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_2">
+		<text>Escute, stalker. Meu estomago vazio jб estб me matando e suas reclamaзхes sу pioram as coisas.</text>
+	</string>
+	<string id="zat_b103_merc_dialog_about_supplies_0">
+		<text>Eu poderia te trazer alguma comida.</text>
+	</string>
+	<string id="zat_b103_merc_dialog_about_supplies_1">
+		<text>Haah! Faзa isso. Carne enlatada, salsichas e pгo, seis de cada. Pode caprichar, estamos famintos.</text>
+	</string>
+	<string id="zat_b103_merc_dialog_about_toolkit_0">
+		<text>Escutei que podem ter ferramentas por aqui.</text>
+	</string>
+	<string id="zat_b103_merc_dialog_about_toolkit_1">
+		<text>Quem diabos sabe? Mas eu gostaria que vocк parasse de rondar. Nуs jб temos muito trabalho a fazer. Nгo podemos nem mesmo mandar alguйm ir buscar comida.</text>
+	</string>
+	<string id="zat_b103_merc_dialog_about_toolkit_2">
+		<text>Quem diabos sabe? Mas fique a vontade para vasculhar esse lixo. Vocк pode encontrar o que precisa.</text>
+	</string>
+	<string id="zat_b103_merc_dialog_find_supplies_0">
+		<text>Aqui estб a comida.</text>
+	</string>
+	<string id="zat_b103_merc_dialog_find_supplies_1">
+		<text>Caracas, havia perdido as esperanзas... Obrigado. Isso serб um bom almoзo para o pessoal. Entгo, o que queria? Vasculhar o lixo? Certo, vб em frente. Apenas encontre o que procura. Mas guarde essa arma de uma vez!</text>
+	</string>
+	<string id="zat_b103_merc_dialog_find_supplies_2">
+		<text>Uau, havia perdido as esperanзas... Obrigado. Isso serб um bom almoзo para o pessoal. Escute, se vocк quiser checar a бrea... Vб em frente. Mas guarde essa arma de uma vez!</text>
+	</string>
+	<string id="zat_b103_merc_dialog_start_11">
+		<text>Vocк nгo й bem vindo aqui. Este й nosso acampamento, e vocк nгo tem negуcios por aqui. Meus homens estгo muito famintos e tensos como estгo...</text>
+	</string>
+	<string id="zat_b103_merc_dialog_start_12">
+		<text>Cai fora! Meus homens estгo famintos, seus dedos nervosos tremem no gatilho</text>
+	</string>
+	<string id="zat_b103_merc_dialog_start_21">
+		<text>Oh, stalker... Й algo importante? Se nгo, eu tenho que voltar ao meu trabalho.</text>
+	</string>
+	<string id="zat_b106_hunt_himera_0">
+		<text>Estou pronto para caзar.</text>
+	</string>
+	<string id="zat_b106_hunt_himera_1">
+		<text>Certo. Vamos.</text>
+	</string>
+	<string id="zat_b106_hunt_himera_11">
+		<text>Vamos.</text>
+	</string>
+	<string id="zat_b106_hunt_himera_2">
+		<text>Ainda nгo й a hora. Volte аs trкs da manhг.</text>
+	</string>
+	<string id="zat_b106_hunt_himera_21">
+		<text>Entendo.</text>
+	</string>
+	<string id="zat_b106_hunt_himera_3">
+		<text>Assim somos nуs... Exceto nas emissхes. A quimera nгo estarб dormindo agora. Acho que deverнamos tentar a sorte em outra noite.</text>
+	</string>
+	<string id="zat_b106_stalker_garmata_b106_after_hunt_11">
+		<text>Gonta estб morto. Como isso aconteceu... Por acaso vocк esta indo para Yanov?  Trapper, o amigo de Gonta, estб lб. Vocк poderia contar-lhe sobre a morte da quimera?... Eu provavelmente irei pra casa agora.</text>
+	</string>
+	<string id="zat_b106_stalker_garmata_b106_after_hunt_111">
+		<text>Tome cuidado.</text>
+	</string>
+	<string id="zat_b106_stalker_garmata_b106_after_hunt_12">
+		<text>Sai fora daqui. Gonta estб morto, em parte, por sua culpa. O que vamos fazer agora?</text>
+	</string>
+	<string id="zat_b106_stalker_garmata_b106_after_hunt_121">
+		<text>Tome cuidado.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_himself_0">
+		<text>Fale-me sobre vocк.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_himself_1">
+		<text>Sou Gonta, lнder dos caзadores. Aniquilamos mutantes por dinheiro. Tambйm os capturamos vivos para experimentos cientнficos ou no caso de alguйm querer um bicho de estimaзгo exуtico... Como dizia Trapper. "Para cada animal, sua bala."</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_mutants_0">
+		<text>Fale-me sobre caзar mutantes.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_mutants_1">
+		<text>Bem, nгo sou o caзador mais experiente, mas posso dizer-te que sei muitas coisas sobre animais que correm em bandos. Porcхes, javalis, cachorros cegos, pseudo-cachorros, snorks, hamsters... Eu atй sei alguma coisa sobre as sanguessugas.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_mutants_1111">
+		<text>Fale-me sobre javalis e os porcхes.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_mutants_11111">
+		<text>Certo, o porcгo e o mais inofensivo dos mutantes. Eles tentam ficar longe dos stalkers, mas se vocк atacar, eles irгo atacar de volta. Agora, se existir um javali entre os porcos mutantes, isso significa problema. Trezentos quilos de fъria nгo sгo para brincadeira. Tente nгo ficar em seu caminho, ele usarб o peso contra vocк. Use a forзa contra ele. Pesos pesados como esse nгo se caracterizam por sua agilidade, nгo й? Se esquive e depois encha ele de tiro.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_mutants_1112">
+		<text>Fale-me sobre cachorros cegos e pseudo-cachorros.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_mutants_11121">
+		<text>Os caninos solitбrios nгo sгo tгo perigosos, mas manadas deles sгo um pй no saco. Eles sу atacam se estiverem com fome... E o pior й que eles sempre estгo com fome. Se vocк enfrentar eles em manada tente matб-los de um lugar alto, do contrбrio eles irгo te atropelar, especialmente se houver entre eles pseudo-cachorros adulto. Nгo sгo muito mais resistentes que os cegos, mas sгo mais astutos e perigosos... Se um deles de repente se transformar em uma manada inteira, lembre-se: vocк estб sendo atacado por fantasmas. O pseudo-cachorro real fica atrбs e sу tentara te atacar de vez em quando... Tente identificar o real e assim que ele  estiver morto os fantasmas irгo desaparecer.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_mutants_1113">
+		<text>Fale-me sobre os snorks.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_mutants_11131">
+		<text>Sгo restos humanos... Um snork sozinho nгo causa muitos problemas para um caзador experiente. Vocк espera ele pular em sua direзгo e entгo vocк acerta ele em cheio no ar. Agora, quando tem vбrios deles... Vocк simplesmente tem que atirar o mais rбpido possнvel, esquivando dos ataques. Eles sabem dos mйtodos e procuram atacar juntos.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_mutants_1114">
+		<text>Fale-me sobre os hamsters.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_mutants_11151">
+		<text>Elas sгo particularmente caзadoras espertas, com disfarces excelentes. Quando elas se camuflam, vocк quase nгo consegue vк-las. Se vocк estiver caзando uma sanguessuga, tente assustб-las. Elas sгo visнveis quando se movem... Lembre-se, uma sanguessuga tentarб te atacar sorrateiramente por trбs e enrolar seus tentбculos em seu pescoзo. Isso й uma merda cara, й assustador... Se vocк tiver o azar de se deparar com um grupo de sanguessugas, sempre olhe a sua volta.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_mutants_11141">
+		<text>Й o pesadelo de todo caзador... O pior que vocк pode fazer й subestimб-los pelo tamanho. Eles sгo incrivelmente rбpidos e бgeis. Sempre correm em bando. Quando vocк sente dezenas de pequenas presas te rasgando, й quando vocк os levarб a sйrio e comeзarб a atirar... E essa й a parte mais aterrorizante: eles sгo extremamente difнceis de acertar. Й por isso que eu sempre digo aos stalkers para levar uma espingarda carregada.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_mutants_1115">
+		<text>Fale-me sobre as sanguessugas.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_mutants_1116">
+		<text>OK, eu me lembrarei disso.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_soroka_actor_task_0">
+		<text>Se eu vir Magpie, com certeza irei te contar.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_soroka_actor_task_1">
+		<text>Eu vou fazer valer a pena... Vou arrancar suas penas.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_soroka_dialog_0">
+		<text>O que Magpie tem feito para te prejudicб-lo?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_soroka_dialog_1">
+		<text>Certo, uma vez ele veio me dizer que nгo poderia pegar seu saque de volta por causa de um controlador. Meu grupo precisava de um homem. Nosso explorador Danila tinha ido rastrear o caminho para o covil das sanguessugas. Entгo, nуs decidimos ajudar o Magpie a pegar seu saque e levб-lo como caзador conosco. Tudo que nуs tнnhamos que fazer era vigiar a quimera perto de seu covil.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_soroka_dialog_11">
+		<text>E o que aconteceu depois?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_soroka_dialog_111">
+		<text>O que aconteceu depois foi - o bastardo fugiu com o saque e embolsando o nosso tambйm. Foi uma maldita surpresa quando a quimera apareceu. Garmata, por exemplo, nгo teve tempo nem de reagir. Quero dizer, quem teria?... Em vez de nуs caзarmos nossa presa, eu terminei defendendo meu grupo. No final eu feri a quimera, mas ela tambйm feriu seriamente Crab e sumiu. Perdemos toda uma semana de preparativos.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_after_fight_11">
+		<text>Caзar estб no nosso sangue, cara! Este trofйu aqui eu lhe dedico... Como Trapper costumava dizer. "Habilidade й a sua principal arma..." A propуsito, vocк estб indo para Yanov? Seria bom contar ao Trapper sobre a morte da quimera. Eu vou ficar aqui em Skadovsk por enquanto, esperando Crab melhorar. Vocк vem conosco?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_after_fight_111">
+		<text>Sim. Vamos nessa.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_after_fight_112">
+		<text>Nгo. Eu vou dar umas voltas por aqui ainda.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_after_fight_12">
+		<text>Nуs conseguimos. Esse pequeno trofйu eu lhe dedico... As coisas poderiam ter sido melhores, mas tudo bem. Como Trapper costumava dizer. "Com experiкncia, quem precisa de armadilhas?..." A propуsito, vocк estб indo para Yanov? Seria bom contar ao Trapper sobre a morte da quimera. Eu vou ficar aqui em Skadovsk por enquanto, esperando Crab melhorar. Vocк vem conosco?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_after_fight_13">
+		<text>Garmata estб morto... Aquela quimera nos custou caro. Vocк nгo estб indo para Yanov, estб? Nуs devemos contar ao Trapper sobre a morte da quimera. Eu vou ficar em Skadovsk por enquanto, esperando Crab melhorar. Vocк vai?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_b22_about_stalker_vampire_0">
+		<text>Eu achei Danila. Ele estб morto. O culpado de sua morte foi Tremor.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_b22_about_stalker_vampire_1">
+		<text>Ah, cara! Por que os melhores de nуs vгo primeiro?... E aquele maldito Tremor! Matou Danila... ele era uma уtima pessoa!</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_b52_about_nimble_0">
+		<text>Acha que Nimble estб negociando produtos roubados?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_b52_about_nimble_1">
+		<text>Produtos roubados? O que te faz pensar isso? Eu conheзo Nimble faz um bom tempo. Faзo encomendas de armas com ele regularmente. Boas peзas por bons preзos. Й a primeira vez que escuto isso. Eu suponho que ele tem novos concorrentes que estгo ficando desesperados, espalhando rumores e tudo mais...</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_come_with_me_0">
+		<text>Eu estou reunindo um esquadrгo para irmos a Pripyat. Vocк irб conosco?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_come_with_me_1">
+		<text>Eu tenho um acordo com os cientistas que eu tenho que cumprir. Embora, eu nгo me sinta bem em ir. Vocк deveria falar com Sokolov. Ele estб me chateando, dizendo o quanto ele precisa ir para Pripyat, mas nгo tem coragem de ir sozinho. Um verdadeiro soldado esse...</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_come_with_me_2">
+		<text>Eu tenho um acordo com os cientistas que eu tenho que cumprir. Embora, eu nгo me sinta bem em ir. Desculpe cara.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_employ_stalkers_1">
+		<text>Como й o trabalho?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_come_with_me_3">
+		<text>Ah, eu nгo quero. A caзa estб toda aqui. Vocк sabe melhor que a maioria que muitos mutantes ainda estгo circulando por aqui - o suficiente para satisfazer um caзador por algumas vidas.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_employ_stalkers_0">
+		<text>Vocк gosta de trabalhar para os cientistas?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_employ_stalkers_11">
+		<text>Proteger seu bunker.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_employ_stalkers_111">
+		<text>Nгo, obrigado. Eu sou um caзador, meu trabalho й com mutantes. E mutantes nгo vгo ameaзar o bunker. Agora, pessoas sim, ai a historia й diferente.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_employ_stalkers_12">
+		<text>Fazer mediзхes de anomalias.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_employ_stalkers_121">
+		<text>Por que nгo? Nуs podemos fazer isso. Eu oficialmente declaro terminada a temporada de caзa! Serб uma boa pausa na rotina, vocк sabe. Sentir calafrios toda vez que vocк vai sair...</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_employ_stalkers_2">
+		<text>Nгo, nгo agora. Й a caзa. Primeiro temos que acertar as contas com a quimera. Nуs nгo podemos deixar este mutante sanguinбrio circulando pela Zona matando os stalkers a todo instante.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_employ_stalkers_3">
+		<text>O que eu gostaria mesmo й de dar um belo apertгo na goela de Magpie. Entгo eu ficaria bem tranquilo e discutiria de trabalho com vocк.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_employ_stalkers_4">
+		<text>Mais tarde. Por agora jб temos muito trabalho pra fazer. Nуs estamos com uma quimera nas mгos e o Magpie pra rastrearmos. Nгo temos tempo para outras coisas agora.\n\n</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_info_about_soroka_0">
+		<text>Eu achei Magpie. Ele estб na estaзгo Yanov, passando-se pelo nome de "Flint".</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_info_about_soroka_1">
+		<text>Aquele maldito ainda estб vivo? Bom, nгo por muito tempo... Pegue isso - agradeзo pela ajuda. Mal posso esperar para encontrar aquele bastardo. Vocк disse: Flint...</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_info_about_soroka_11">
+		<text>Sim. Obrigado.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_info_about_soroka_start_11">
+		<text>Ei, vocк viu esse cara Magpie? Conhece ele?... Nгo? Bem, se aquele bosta atravessar seu caminho sinta-se a vontade em por uma bala em sua cabeзa. Ou vocк pode me contar onde posso encontrar ele e te darei uma boa recompensa.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_start_11">
+		<text>Bem, olб.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_start_12">
+		<text>Espere!... Nуs localizamos a quimera, nуs nгo temos tempo a perder. Crab ainda estб mal. Danila ainda nгo voltou, e caзar a quimera com apenas com dois homens й uma estupidez. Nуs precisamos de mais um. Vocк poderia ser o terceiro. Vocк achou o Magpie? O que vocк acha de irmos caзar aquela maldita quimera juntos?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_start_13">
+		<text>Espere!... Nуs localizamos a quimera, nуs nгo temos tempo a perder. Crab ainda estб mal. Danila... Bem... Um grupo de caзa com apenas duas pessoas й estupidez. Nуs precisamos de mais um. Vocк poderia ser o terceiro. O que vocк diria sobre irmos caзar aquela maldita quimera juntos?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_start_131">
+		<text>Serб um prazer.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_start_1311">
+		<text>Como Trapper costumava dizer. "Quando vocк estб caзando, caзar й sу a metade do trabalho..." De qualquer maneira, olhe: depois de uma noite de caзada a quimera volta para o seu covil por volta de trкs da manhг. Entгo ela cairб no sono. Esse serб o momento de atacar... Quando vocк estiver pronto, venha aqui аs trкs da manhг e nуs vamos fazer isso. Nуs estaremos no bar.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_start_132">
+		<text>Eu vou pensar sobre isso.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_start_1321">
+		<text>Bem, se vocк mudar de ideia, aparece no bar por volta das trкs da manhг. Й quando a quimera chega a seu covil para uma boa soneca.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_start_14">
+		<text>Olб. Como estгo as coisas. Vocк parece descansado.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_start_15">
+		<text>Ah, tudo bem. Mundo pequeno, nгo?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_start_16">
+		<text>Entгo? Й hora de atacar aquela quimera...</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_start_17">
+		<text>Jб estб ficando nervoso antes da caзada?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_trapper_send_0">
+		<text>Trapper pediu para te ajudar a acabar com a quimera.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_trapper_send_1">
+		<text>Eu vejo. Ele ainda estб nervoso. O que importa й que nуs finalmente localizamos a quimera. Infelizmente, Crab estб mal e Danila nгo voltou ainda... Entгo somos sу nуs trкs. Mas se Trapper te escolheu, vocк deve ser um bom caзador. Olha, apуs uma noite de caзa a quimera volta para seu lar por volta de trкs da manhг. Entгo ela cai no sono.  Esse serб o momento de atacar... Quando vocк estiver pronto, nos procure аs trкs da manhг e nуs vamos fazer isso. Nуs estaremos no bar.</text>
+	</string>
+	<string id="zat_b14_stalker_at_bar_start_0">
+		<text>Vocк estб tentando me fazer de idiota?</text>
+	</string>
+	<string id="zat_b14_stalker_at_bar_start_1">
+		<text>Isso й o que vocк й. E os tolos devem ser educados.</text>
+	</string>
+	<string id="zat_b14_stalker_at_bar_start_11">
+		<text>Nгo importa. O mundo й pequeno e a Zona й menor ainda. Nossos caminhos vгo se cruzar novamente.</text>
+	</string>
+	<string id="zat_b14_stalker_at_bar_start_111">
+		<text>Vб... Saia daqui. Em Skadovsk sу ficam os que estгo dispostos a lutar.</text>
+	</string>
+	<string id="zat_b14_stalker_at_bar_start_1111">
+		<text>Ok, certo.</text>
+	</string>
+	<string id="zat_b14_stalker_at_bar_start_12">
+		<text>Eu admito. Eu cometi um erro. Mas vocк quebrou as regras.</text>
+	</string>
+	<string id="zat_b14_stalker_at_bar_start_121">
+		<text>Essa й a Zona para vocк. Corta o blб-blб-blб. Vamos ao que interessa.</text>
+	</string>
+	<string id="zat_b14_stalker_at_bar_start_13">
+		<text>Eu acho que ele й um verdadeiro idiota se ele deixou o artefato escapar.</text>
+	</string>
+	<string id="zat_b14_stalker_at_bar_start_131">
+		<text>Certo, nгo chore agora. Todos nos estamos aprendendo. E para que vocк aprenda melhor, vamos beber uma cerveja comigo - Vai ver como fica animado.</text>
+	</string>
+	<string id="zat_b14_stalker_at_bar_start_1311">
+		<text>Eu nunca digo nгo.</text>
+	</string>
+	<string id="zat_b14_stalker_at_bar_start_1312">
+		<text>Nгo obrigado. Eu posso pagar a minha prуpria bebida.</text>
+	</string>
+	<string id="zat_b14_stalker_robbery_0">
+		<text>Mas que infernos vocк acha? Cale a boca! Entregue o artefato idiota!</text>
+	</string>
+	<string id="zat_b14_stalker_robbery_1">
+		<text>Idiota. Guarde o artefato... Eu espero que vocк o proteja.</text>
+	</string>
+	<string id="zat_b14_stalker_robbery_2">
+		<text>Foda-se.</text>
+	</string>
+	<string id="zat_b14_stalker_start_0">
+		<text>Irmгo! Escute-me, existe um artefato que possui poderes de cura... Eu preciso dele. Um amigo meu estб prestes a morrer por uma terrнvel doenзa, nossa medicina nгo pode fazer nada... Eu tentei pegar esse artefato, mas ele sumiu em uma anomalia de gбs. Vocк por acaso nгo encontrou um desses, encontrou?</text>
+	</string>
+	<string id="zat_b14_stalker_start_1">
+		<text>Se significa tanto, aqui estб.</text>
+	</string>
+	<string id="zat_b14_stalker_start_11">
+		<text>Obrigado, cara! Eu nгo vou esquecer isso.</text>
+	</string>
+	<string id="zat_b14_stalker_start_111">
+		<text>Cuide-se.</text>
+	</string>
+	<string id="zat_b14_stalker_start_2">
+		<text>Eu tenho um. Mas eu preciso dele.</text>
+	</string>
+	<string id="zat_b14_stalker_start_21">
+		<text>Ah, qual й! Meu amigo... ele irб morrer!</text>
+	</string>
+	<string id="zat_b14_stalker_start_211">
+		<text>Na Zona й cada um por si. Cuide-se.</text>
+	</string>
+	<string id="zat_b14_stalker_start_3">
+		<text>Nгo, eu nгo vi nada desse tipo. Cuide-se.</text>
+	</string>
+	<string id="zat_b14_stalker_start_last_chance_0">
+		<text>Esse artefato nгo farб nada de bom no final. Guarde minhas palavras.</text>
+	</string>
+	<string id="zat_b14_stalker_start_last_chance_1">
+		<text>Se vocк precisa tanto - aqui, pegue-o.</text>
+	</string>
+	<string id="zat_b14_stalker_start_last_chance_11">
+		<text>Obrigado, irmгo! Eu nгo vou esquecer isso.</text>
+	</string>
+	<string id="zat_b14_stalker_start_last_chance_111">
+		<text>Cuide-se.</text>
+	</string>
+	<string id="zat_b14_stalker_start_last_chance_2">
+		<text>A gente se vк.</text>
+	</string>
+	<string id="zat_b14_stalker_start_last_chance_end_0">
+		<text>Eu nгo tenho nada para falar com vocк.</text>
+	</string>
+	<string id="zat_b18_noah_arc_0">
+		<text>Por que vocк vive nessa lata de lixo?</text>
+	</string>
+	<string id="zat_b18_noah_arc_1">
+		<text>Й uma arca! Lembre-se... Vocк a terб se quiser viver! Quando a onda comeзar, fique por perto. Aqui vocк terб uma chance de sobreviver. Nenhum mutante conseguirб entrar aqui.</text>
+	</string>
+	<string id="zat_b18_noah_catastrophe_0">
+		<text>Vocк mencionou uma onda...</text>
+	</string>
+	<string id="zat_b18_noah_catastrophe_1">
+		<text>Sim, a onda de mutantes que irб acabar de dizimar as pessoas da Zona! E os pobres bastardos que sobreviverem serгo varridos por uma enorme emissгo! Isso irб dizimar todo ser vivo na Zona! ... Exceto os que estiverem preparados.</text>
+	</string>
+	<string id="zat_b18_noah_dog_0">
+		<text>Onde vocк conseguiu esse cachorro.</text>
+	</string>
+	<string id="zat_b18_noah_dog_1">
+		<text>Essa й Lassie. Uma pequena cadela... Se nгo fosse por ela, eu teria sido devorado durante meu sono hб algum tempo atrбs. Malditos mutantes... Eu os odeio. Tгo rбpido quanto um piscar de olhos, eles vгo devorar vocк com aquelas garras, presas e antenas sуrdidas...</text>
+	</string>
+	<string id="zat_b18_noah_first_artefact_0">
+		<text>Eu preciso de uma Bъssola. Vocк sabe onde eu poderia encontrar uma?</text>
+	</string>
+	<string id="zat_b18_noah_first_artefact_1">
+		<text>Essa merda nгo vai te salvar quando os mutantes o atacarem de surpresa! Aqui estб, pegue e saia da minha frente.</text>
+	</string>
+	<string id="zat_b18_noah_first_artefact_11">
+		<text>Obrigado.</text>
+	</string>
+	<string id="zat_b18_noah_plateau_way_0">
+		<text>Vocк sabe alguma coisa sobre os helicуpteros destruнdos?</text>
+	</string>
+	<string id="zat_b18_noah_plateau_way_1">
+		<text>Sei algo sobre um deles... Eu sei que um estб no planalto, й uma бrea repleta de snorks. Eu atiro em alguns deles a cada dois ou trкs dias. Por que estб me olhando assim? Eu nгo posso acabar com todos eles de uma vez.</text>
+	</string>
+	<string id="zat_b18_noah_plateau_way_11">
+		<text>Como eu chego ao planalto?</text>
+	</string>
+	<string id="zat_b18_noah_plateau_way_111">
+		<text>Quer atirar em alguns snorks tambйm nгo й? Tudo bem... Eu posso te levar atй lб.</text>
+	</string>
+	<string id="zat_b18_noah_plateau_way_1111">
+		<text>Vamos nessa.</text>
+	</string>
+	<string id="zat_b18_noah_plateau_way_1112">
+		<text>Outra hora.</text>
+	</string>
+	<string id="zat_b18_noah_plateau_way_1121">
+		<text>Um stalker.</text>
+	</string>
+	<string id="zat_b18_noah_plateau_way_11211">
+		<text>Hm. O que estб procurando?</text>
+	</string>
+	<string id="zat_b18_noah_plateau_way_1122">
+		<text>Nada que te interesse.</text>
+	</string>
+	<string id="zat_b18_noah_plateau_way_113">
+		<text>Eu vou te levar atй lб. Fique aqui por enquanto. Hб uma emissгo... Entende? Uma emissгo!</text>
+	</string>
+	<string id="zat_b18_noah_plateau_way_12">
+		<text>Eu estava no covil.</text>
+	</string>
+	<string id="zat_b18_noah_plateau_way_121">
+		<text>Й? Nгo hб modo de acalmб-los... Os mutantes sу estгo crescendo em nъmeros. E num belo dia eles irгo atacar! Essa onda vai acabar com todos na Zona que nгo estгo preparados!...</text>
+	</string>
+	<string id="zat_b18_noah_second_artefact_0">
+		<text>Escute, humm, vocк por acaso teria uma Bъssola?</text>
+	</string>
+	<string id="zat_b18_noah_second_artefact_1">
+		<text>Vocк acha que isso te protegerб de uma emissгo? Heh, pegue e o faзa entгo.</text>
+	</string>
+	<string id="zat_b18_noah_second_artefact_11">
+		<text>Obrigado.</text>
+	</string>
+	<string id="zat_b18_noah_start_11">
+		<text>Quem й vocк?</text>
+	</string>
+	<string id="zat_b18_noah_start_111">
+		<text>Um stalker. Jб nos encontramos antes.</text>
+	</string>
+	<string id="zat_b18_noah_start_1111">
+		<text>Eu nгo me lembro... De qualquer maneira, do que vocк precisa?</text>
+	</string>
+	<string id="zat_b18_noah_start_112">
+		<text>Um stalker. Somente um stalker.</text>
+	</string>
+	<string id="zat_b18_noah_start_1121">
+		<text>Entendo. Procurando um refъgio na arca? Sinta-se em casa.</text>
+	</string>
+	<string id="zat_b18_noah_start_113">
+		<text>Nada que te interesse.</text>
+	</string>
+	<string id="zat_b18_noah_start_21">
+		<text>Ah, й vocк. O que vocк quer?</text>
+	</string>
+	<string id="zat_b18_noah_third_artefact_0">
+		<text>Vocк por acaso nгo teria uma Bъssola de sobra com vocк nгo й?</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_anomalies_0">
+		<text>Conte-me sobre as anomalias.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_anomalies_1">
+		<text>Quando vocк se aproxima de uma anomalia, tenha em mente que as coisas vгo esquentar bastante, ou o ar vai ficar repleto de gases tуxicos ou haverб um ponto crнtico de radiaзгo. Tambйm podem causar transtornos psнquicos, mas eu nгo vou entrar em detalhes. Depende da natureza da anomalia: calor, gбs, eletricidade ou gravitacional, mas eu espero que nуs nгo tenhamos de lidar com nenhuma delas. Tambйm existem anomalias que se movem, mas jб й outro de assunto.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_anomalies_1111">
+		<text>Fale-me sobre as anomalias de calor.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_anomalies_11111">
+		<text>Se vocк vir um reflexo, como o ar fumegante no chгo num dia quente de verгo - essa й uma anomalia de calor. Quando algo entra em contato, acende-se uma chama extremamente quente, causando uma explosгo. A princнpio achava-se que era causada por jatos de gбs natural, mas essa teoria nгo й mais sustentada.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_anomalies_1112">
+		<text>Fale-me sobre as anomalias de gбs.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_anomalies_11121">
+		<text>Esses tipos de anomalias sгo apelidadas assim por seus estranhos processos quнmicos interminбveis. Elas produzem бcidos que corroem a pele em questгo de segundos. Tambйm gases tуxicos que acabam com seu pulmгo no mesmo tempo... Por sorte, as anomalias de gбs sгo fбceis de encontrar em campo aberto. Quando entrar em um tъnel escuro... comece a rezar.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_anomalies_1113">
+		<text>Fale-me sobre as anomalias elйtricas.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_anomalies_11131">
+		<text>Um tipo muito interessante de anomalia que acumula uma quantidade substancial de eletricidade estбtica. Stalkers costumam tirar vantagem do fato que uma anomalia elйtrica pode ser descarregada com um objeto metбlico. Elas tacam um raio e fogem atй que tenha terminado a sua recarga. Eu prefiro ir embora - devido o processo de recarga ser bem rбpido.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_anomalies_1114">
+		<text>Fale-me sobre as anomalias gravitacionais.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_anomalies_11141">
+		<text>Elas sгo tipicamente imуveis. Quando vocк estб olhando para um lugar especнfico e percebe que os objetos por trбs estгo distorcidos, vocк achou uma. E й melhor manter distвncia. Os trкs tipos de variedades conhecidos reagem instantaneamente ao momento em que tocam nelas. O tipo Partida lanзa tudo que estiver embaixo dele - a uma considerбvel distвncia. O tipo Vуrtice faz o contrбrio, ele suga um objeto e com uma terrнvel pressгo esmaga-o, cuspindo apenas os restos alguns segundos depois. O tipo Carrossel suspende suas vнtimas, fazendo os girar atй destruн-los. Um terrнvel final, nгo importa de qual maneira.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_anomalies_1115">
+		<text>Fale-me sobre as anomalias mуveis.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_anomalies_1116">
+		<text>Certo, esqueзa.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_anomalies_11151">
+		<text>Pessoalmente eu sу encontrei um Cometa e um Tesla. O primeiro й uma bola de fogo de um metro de diвmetro. Mas eu te garanto que vocк sentirб o calor hб uma distвncia muito maior... O ъltimo й, por falta de descriзгo, uma bola de raios. Й definitivamente uma bola e tambйm a sua natureza й elйtrica. Ambas as anomalias estгo sempre se movimentando, mas geralmente estгo em caminhos fixos. Um stalker cuidadoso poderia facilmente passar por elas... Sу nгo perca a concentraзгo.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_himself_0">
+		<text>Me fale sobre vocк.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_himself_1">
+		<text>Meu nome й Pilot por alguma razгo. Eu sу uso as rotas seguras. Nгo tenho coragem para coletar artefatos ou enfrentar bandidos, entгo... Todos devem usar seus talentos em benefнcio de outros. E todo talento tem seu preзo, й claro.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_surge_0">
+		<text>Conte-me sobre as emissхes.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_maps_0">
+		<text>Eu tenho alguns mapas da бrea entre Zaton e Jupiter. Quer dar uma olhada?</text>
+	</string>
+	<string id="zat_b215_stalker_guide_maps_1">
+		<text>Deixe-me ver... Caramba й bem detalhado. Em nosso negуcio os detalhes fazem a diferenзa entre a vida e a morte. Tudo bem! Estes mapas indicam que hб uma rota segura entre Skadovsk e Yanov. Vou copiar os dados para o meu PDA, se vocк nгo se importa. Agora eu posso lhe dar um bom desconto.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_start_11">
+		<text>Talvez precise de um guia? Para mostrar o caminho em torno de todas as anomalias, mantк-lo seguro das emissхes? Pilot ao seu serviзo.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_start_21">
+		<text>Vocк precisa da ajuda de um guia?</text>
+	</string>
+	<string id="zat_b215_stalker_guide_start_31">
+		<text>Prazer em vк-lo. O que o velho Pilot pode fazer por vocк?</text>
+	</string>
+	<string id="zat_b215_stalker_guide_start_41">
+		<text>Cair na estrada novamente?</text>
+	</string>
+	<string id="zat_b215_stalker_guide_start_51">
+		<text>Bom dia para vocк. Nгo pode ficar em um lugar por muito tempo, hein? Eu estou ao seu serviзo.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_start_61">
+		<text>Olб. Se vocк precisa de um guia, eu sou o homem. Assim que a emissгo acabar. Enquanto isso, podemos falar sobre as anomalias para matar o tempo...</text>
+	</string>
+	<string id="zat_b215_stalker_guide_start_71">
+		<text>Estou com medo, nesse estado nгo posso fazer nada como guia agora... A emissгo estб em grande oscilaзгo.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_jupiter_0">
+		<text>Quanto cobra para me levar a estaзгo Yanov?</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_jupiter_1">
+		<text>Infelizmente, й um longo caminho, por isso o preзo й 3.000.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_jupiter_11">
+		<text>Muito bem. Vamos lб.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_jupiter_12">
+		<text>Eu nгo tenho tanto comigo.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_jupiter_2">
+		<text>Com seus mapas - й apenas 1.000.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_jupiter_21">
+		<text>Muito bem, vamos lб.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_jupiter_4">
+		<text>Com seus mapas - й apenas 1.000. Mas vocк tem que esperar a emissгo acabar.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_0">
+		<text>Vocк pode me levar a Pripyat?</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_3">
+		<text>Nгo. Todo mundo tem a sua especialidade. Garry vem ali? Acho que ele vai ser capaz de ajudб-lo.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_4">
+		<text>Nгo pessoalmente, nгo. Mas por 6.000 eu posso levб-lo а estaзгo Yanov e negociar tudo com Garry. De lб, ele levarб vocк a Pripyat. O que me diz?</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_jupiter_13">
+		<text>Nгo vou embora ainda.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_jupiter_23">
+		<text>Nгo vou embora ainda.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_jupiter_3">
+		<text>Й um longo caminho a partir daqui, por isso o preзo й 3.000. Estarei pronto para sair, logo que a emissгo acabar.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_zaton_11">
+		<text>Muito bem. Vamos lб.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_zaton_13">
+		<text>Nгo vou embora ainda.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_zaton_2">
+		<text>Com essa nova rota й apenas 1.000.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_zaton_21">
+		<text>Muito bem, Vamos lб.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_zaton_23">
+		<text>Nгo vou embora ainda.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_zaton_4">
+		<text>Com essa nova rota й apenas 1.000. Mas temos que esperar a emissгo passar.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_where_to_0">
+		<text>Pode me levar atй onde?</text>
+	</string>
+	<string id="zat_b22_barmen_about_vampire_actor1_0">
+		<text>Estou procurando Grouse. Nуs deverнamos nos encontrar aqui.</text>
+	</string>
+	<string id="zat_b22_barmen_about_vampire_actor1_1">
+		<text>Grouse deixou uma mensagem para vocк. Ele disse que estava indo para os guindastes portuбrios. E que ele descobriu algo novo sobre os stalkers desaparecidos.</text>
+	</string>
+	<string id="zat_b22_barmen_about_vampire_actor2_0">
+		<text>Grouse estб morto. Tremor matou-o, como os outros stalkers... Tremor tambйm estб morto.</text>
+	</string>
+	<string id="zat_b22_barmen_about_vampire_actor4_0">
+		<text>Aqui estб o PDA de Tremor. Contйm provas que confirmam o seu envolvimento.</text>
+	</string>
+	<string id="zat_b22_barmen_b5_daring_quest_stalkers_0">
+		<text>Eu vou ajudб-lo a se livrar dos bandidos.</text>
+	</string>
+	<string id="zat_b22_barmen_b5_daring_quest_stalkers_1">
+		<text>Уtimo. Vб para o posto dos guardas florestais - onde os nossos meninos estгo. Eles lhe darгo todos os detalhes.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_jupiter_22">
+		<text>Eu nгo tenho tanto comigo.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_41">
+		<text>OK, vamos lб.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_42">
+		<text>Eu nгo tenho tanto comigo.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_43">
+		<text>Nгo vou embora ainda.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_5">
+		<text>Nгo pessoalmente, nгo. Mas por 4.000 eu posso levб-lo а estaзгo Yanov e negociar tudo com Garry. De lб, ele levarб vocк a Pripyat. O que me diz?</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_51">
+		<text>OK, vamos lб.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_52">
+		<text>Eu nгo tenho tanto comigo.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_53">
+		<text>Nгo vou embora ainda.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_6">
+		<text>Nгo. Todo mundo tem a sua especialidade. Garry vem ali? Acho que ele vai ser capaz de ajudб-lo, quando a emissгo passar.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_7">
+		<text>Nгo pessoalmente, nгo. Mas por 6.000 eu posso levб-lo а estaзгo Yanov e negociar tudo com Garry. De lб, ele levarб vocк a Pripyat. Assim que a emissгo acabar, й claro.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_8">
+		<text>Nгo pessoalmente, nгo. Mas por 4.000 eu posso levб-lo а estaзгo Yanov e negociar tudo com Garry. De lб, ele levarб vocк a Pripyat. Assim que a emissгo acabar, й claro.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_no_way_0">
+		<text>Vocк pode me levar a Pripyat?</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_no_way_2">
+		<text>Nгo. Se vocк quiser ir lб, tem que encontrar esses tъneis que passam abaixo da fбbrica de Jupiter.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_zaton_0">
+		<text>Quanto cobrar para me levar a Skadovsk?</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_no_way_1">
+		<text>Pripyat? Nгo. Nгo hб uma procura suficiente com a minha atual rota, que nгo preciso procurar outra. Mas tenho um bom amigo que trabalhava na fбbrica de Jupiter. Ele me disse que existem tъneis debaixo da fбbrica que levam a Pripyat. Ele nгo tem nenhum detalhe, mas me disse que comeзou a procurar no departamento administrativo da fбbrica.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_zaton_1">
+		<text>Como nуs temos que fazer um desvio, o preзo й 3.000.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_zaton_12">
+		<text>Eu estou um pouco apertado agora.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_zaton_22">
+		<text>Eu estou um pouco apertado agora.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_zaton_3">
+		<text>Como nуs temos que fazer um desvio, o preзo й 3.000. Eu estarei pronto para sair, logo que a emissгo se acalmar.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_where_to_1">
+		<text>Para estaзгo Yanov, nгo й muito longe da fбbrica Jupiter. E depois voltar para Skadovsk de lб. Eu prefiro conhecer uma boa rota a ter a presunзгo de conhecer muitas.</text>
+	</string>
+	<string id="zat_b22_barmen_about_after_quest_b5_dealer_actor4_0">
+		<text>Eu estraguei o negуcio das armas dos bandidos.</text>
+	</string>
+	<string id="zat_b22_barmen_about_after_quest_b5_dealer_actor4_1">
+		<text>Obrigado pela ajuda. Tenho medo sу de pensar na dйcada de 90 com seus capangas armados com lanзa-granadas... Aqui, pegue isso. Dinheiro й sempre bem vindo.</text>
+	</string>
+	<string id="zat_b22_barmen_about_vampire_actor2_1">
+		<text>Tremor? Maldiзгo. A cobra estava bem debaixo do nosso nariz. Poderia ter acontecido com qualquer um de nуs... Quero dizer a Grouse, e a todas as pessoas... Obrigado, amigo. Vocк salvou todo nosso acampamento. Aqui.</text>
+	</string>
+	<string id="zat_b22_barmen_about_vampire_actor3_1">
+		<text>Tremor?!...Sinto muito, amigo, nгo dб para engolir. Se houvesse algum tipo de evidкncia, entгo talvez... Pobre Grouse.</text>
+	</string>
+	<string id="zat_b22_barmen_about_vampire_actor4_1">
+		<text>Maldiзгo. A cobra estava bem debaixo do nosso nariz. Poderia ter acontecido com qualquer um de nуs... Quero dizer, a Grouse, e a todas as pessoas... Obrigado, amigo. Vocк salvou todo nosso acampamento. Aqui.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_1516">
+		<text>Isso й tudo sobre os helicуpteros.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_12">
+		<text>Onde posso encontrar um stalker chamado Magpie?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_121">
+		<text>Eu posso lhe dar uma dica... por 1.000.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_1211">
+		<text>Aqui.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_13">
+		<text>Estou procurando Snag. Vocк sabe onde posso encontrб-lo?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_131">
+		<text>Eu vou te dizer por 1.000.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_1311">
+		<text>Aqui.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_15">
+		<text>O que vocк sabe sobre os helicуpteros destruнdos?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_1511">
+		<text>O planalto sul.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_1512">
+		<text>A subestaзгo.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_1513">
+		<text>O pвntano.</text>
+	</string>
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_1">
+		<text>Talvez sim, talvez nгo. O que te interessa?</text>
+	</string>
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_11">
+		<text>Eu preciso disso.</text>
+	</string>
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_111">
+		<text>Eu tambйm... Mas vou trocб-la por uma nova arma. Uma avanзada.</text>
+	</string>
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_1111">
+		<text>Eu tenho uma уtima arma. Vamos negociar...</text>
+	</string>
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_11111">
+		<text>bem.</text>
+	</string>
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_1112">
+		<text>Nгo, isso nгo vai funcionar.</text>
+	</string>
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_11121">
+		<text>Desapareзa da minha vista.</text>
+	</string>
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_111211">
+		<text>Tб certo.</text>
+	</string>
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_12">
+		<text>Bem, realmente nada.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_about_nimble_0">
+		<text>O que vocк sabe sobre Nimble?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_b30_actor_after_barmen_0">
+		<text>Beard me disse que tinha um acordo diferente.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_b30_actor_after_barmen_11">
+		<text>Vou falar com o Sultan.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_b30_actor_after_barmen_12">
+		<text>Que sultхes o que... Quero a minha parte agora mesmo!</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_b30_actor_after_barmen_121">
+		<text>Uhh... Bom. Aqui estб o dinheiro... Mas lembre-se, Beard estб jogando areia em seus olhos.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_0">
+		<text>Preciso de informaзхes.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_1">
+		<text>O que vocк quer saber?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_11">
+		<text>Preciso de gбs venenoso, e me disseram para perguntar a vocк.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_111">
+		<text>Й comigo mesmo. Vou lhe dizer por 2.000.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_1111">
+		<text>Aqui.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_b52_about_nimble_0">
+		<text>O que vocк sabe sobre Nimble? Ele poderia estar negociando armas roubadas?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_11">
+		<text>Eu sabia que eu seria desmascarado. Era apenas uma questгo de tempo...</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_111">
+		<text>Tremor?!... Vocк pode me explicar o que estб acontecendo?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_11112">
+		<text>OK, eu entendi. Chega de conversa.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_112">
+		<text>Por que vocк fez isso?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_113">
+		<text>Como vocк conseguiu manter em segredo?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_114">
+		<text>O que aconteceu com Danila e Grouse?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_11411">
+		<text>OK, eu entendi. Chega de conversa.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_21">
+		<text>Eu estou ouvindo.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_22">
+		<text>Olб, vocк precisa de ajuda?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_b52_about_nimble_1">
+		<text>Eu realmente nгo sei nada dele. Mas duvido que esteja metido nisso. Se vocк esta lidando com mercadorias quentes, й melhor que vocк nгo tome decisхes precipitadas...</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_1111">
+		<text>Eu nгo vou continuar escondendo nada. Nгo adianta. Vocк sabe agora que fui eu quem matou Grouse... Tambйm o Danila e os outros stalkers desaparecidos.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_111121">
+		<text>Vocк nгo conseguiu nada, ninguйm nunca vai me pegar...</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_1121">
+		<text>Vнcio da hemoglobina... Nгo desejo isso a ninguйm... Nгo hб nenhuma maneira de se livrar. Аs vezes vocк consegue ficar um mкs inteiro sem beber uma gota de sangue, e isso aconteceu comigo algumas vezes, mas depois... Algo explode dentro de vocк, a necessidade desesperada de compensar o sangue perdido como um louco...</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_1131">
+		<text>Quando eu trabalhava na clнnica de cirurgia, era fбcil de esconder. Sempre sobrava sangue de um excedente de doador. Mas na Zona foi diferente... Eu pensei que este ambiente hostil, fosse capaz de me livrar desse vнcio. Mas eu estava errado. Fiquei mais ansioso do que nunca e nгo conseguia pensar em mais nada. Decidi fazer com que os assassinatos parecessem ataques das sanguessugas. Normalmente escolho alvos que jб estavam feridos.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_1141">
+		<text>Danila veio me pedir ajuda apуs o ataque das sanguessugas. Ele estava ferido. Quando ele e o Grouse decidiram ir caзar as sanguessugas, eu percebi que nгo seria capaz de aguentar por muito mais tempo. Mesmo assim, tentei proteger meu segredo, mas minha determinaзгo foi enfraquecendo. Em seguida, Grouse apareceu. Ele percebeu a situaзгo e tentou me matar. O que nos traz aqui. Sinto muito por todas essas pessoas, mas minha pena nгo vai trazк-los de volta.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_23">
+		<text>Oi.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_0">
+		<text>Eu preciso de assistкncia mйdica.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_1">
+		<text>Deixe-me dar uma olhada...</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_111">
+		<text>Bem, isso й tudo. Vocк pode ir.</text>
+	</string>
+	<string id="zat_b29_rivals_start_dialog_11">
+		<text>Olб! А Procura de artefatos, tambйm?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_about_nimble_1">
+		<text>Oh, nada de mais... Nгo fazemos negуcios juntos. Enquanto ele anda vasculhando a Zona procurando por superarmas, eu consigo vender cem dessas regulares. Й bastante arrogante, tambйm, se recusa a lidar com os bandidos locais. Entгo ele й um pйssimo comerciante, que realmente й uma coisa boa para mim.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_114111">
+		<text>Vocк nгo conseguiu nada, ninguйm nunca vai me pegar...</text>
+	</string>
+	<string id="zat_b29_rivals_start_dialog_12">
+		<text>Ei! Coletando artefatos, nгo й? Bem, deve haver suficiente para todos.</text>
+	</string>
+	<string id="zat_b29_rivals_start_dialog_13">
+		<text>Ei! Vocк tambйm quer alguns artefatos, hein?</text>
+	</string>
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_0">
+		<text>Olб. Vocк estб pegando este artefato para o Beard?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_1112">
+		<text>Muito caro para mim.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_b30_actor_after_barmen_1">
+		<text>"Diferente" й minha bunda! Aquele porco barbudo mal entra em sua calзa! Ele deve se lembrar de quem й que manda por aqui... Ouзa, hб um tipo muito influente em Zaton, chamado Sultan. Faзa-lhe uma visita - ele lhe dirб o que fazer.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_11121">
+		<text>Vocк vai ver.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_11111">
+		<text>Escuta. Certa vez um comboio militar que transportava gбs nгo terminou sua viagem. Ninguйm sabe ao certo o que ocorreu, mas os tanques de gбs ainda devem estar lб. Entendeu? Sim, tambйm pode haver alguns documentos por lб. Se os encontrar, tragб-los para mim e vocк poderб recuperar o seu investimento.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_151">
+		<text>Humm... Por aqui todos sabem onde eles caнram. Um caiu no planalto sul, o segundo foi parar no pвntano e o terceiro acabou com as torres da subestaзгo. Qual lugar te interessa?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_12111">
+		<text>Vocк nгo vai encontrб-lo aqui, mas um passarinho me contou que ele poderia estar em torno de Jupiter, talvez perto da estaзгo Yanov. Nгo se esqueзa de que quem faz confusхes em um lugar nгo mantйm o mesmo nome quando ele vai para outra regiгo... Provavelmente ele mudou seu disfarce tambйm, tente achб-lo entre os stalkers.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_13111">
+		<text>Snag й um idiota ganancioso que se meteu com gente perigosa. Ele pegou um caminho sem volta, vocк deveria procurб-lo prуximo a Jupiter. Ele nгo tem outro lugar para ir. Vocк nгo й o ъnico a sua procura.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_1521">
+		<text>Aqui estб.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_153">
+		<text>Eu te digo por 200.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_1531">
+		<text>Aqui estб.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_154">
+		<text>Eu te digo por 200.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_1541">
+		<text>Aqui estб.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_99">
+		<text>Agora nгo.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_0">
+		<text>Tem algum trabalho para mim?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_1111">
+		<text>Fale-me sobre o trabalho com os cientistas.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_111111">
+		<text>Negуcio fechado.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_111112">
+		<text>Talvez outra hora.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_1112">
+		<text>Fale-me sobre o acampamento dos Mercenбrios.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_111211">
+		<text>Eu aceito.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_111212">
+		<text>Agora nгo.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_111311">
+		<text>Ok.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_111312">
+		<text>Espere.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_1114">
+		<text>Em outra ocasiгo.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_118">
+		<text>Nгo tenho mais trabalhos.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_0">
+		<text>Pensei que vocк pudesse se interessar.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_1">
+		<text>O que vocк tem?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_11">
+		<text>O PDA de Noah.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_1111">
+		<text>Negуcio feito.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_121">
+		<text>Eu te dou 1.000.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_1211">
+		<text>Negуcio feito.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_12112">
+		<text>Muito interessante... Bom trabalho, stalker.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_131">
+		<text>Eu te dou 1.000</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_1311">
+		<text>Negуcio feito.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_141">
+		<text>Eu te pago 5.000.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_1411">
+		<text>Fechado.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_151">
+		<text>Eu te dou 4.000.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_1511">
+		<text>Negуcio feito.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_1611">
+		<text>Negуcio feito.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_17">
+		<text>PDA de um mercenбrio.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_171">
+		<text>Eu te dou 1.000.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_1711">
+		<text>Negуcio feito.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_18">
+		<text>PDA de Morgan.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_1821">
+		<text>Negуcio feito.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_191">
+		<text>Eu te dou 500.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_1911">
+		<text>Negуcio feito.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_201">
+		<text>Eu te dou 500.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_2011">
+		<text>Negуcio feito.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_211">
+		<text>Eu te dou 500.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_2111">
+		<text>Negуcio feito.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_221">
+		<text>Eu te dou 750.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_2211">
+		<text>Negуcio feito.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_231">
+		<text>Eu te dou 750.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_14">
+		<text>PDA com informaзгo de um esconderijo Monolith.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_15211">
+		<text>Pois esse helicуptero caiu justo ao lado de um antro de snorks. Pelo que sei, os militares saнram dali. Claro que nem todos. Eles eliminaram os mutantes e desceram. Agora se vocк for lб encima, posso oferecer-te uma boa espingarda e alguma muniзгo para descarregar nestas bestas. O problema й que o ъnico que sabe subir neste platф й o doido do Noah.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_111">
+		<text>Em primeiro lugar, hб um pequeno trabalho para os cientistas; em segundo precisamos de informaзгo sobre o acampamento dos mercenбrios; e, em terceiro, o comerciante estб precisando de proteзгo. Tem muita coisa acontecendo, vocк tem apenas que escolher.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_11111">
+		<text>Vocк tem que encontrar trкs detectores Veles e levб-los atй o bunker dos cientistas prуximo a Jupiter. Quando chegar lб, vocк deverб falar com Novikov, ele irб fazer alguns ajustes... Quando os detectores comeзarem a funcionar, voltamos a nos falar, OK? Entгo vб, й simples como roubar doce de crianзa, certo.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_11121">
+		<text>Um grupo de mercenбrios apareceu lб na estaзгo de tratamento e eu me mataria para saber o que eles estгo tramando... Entre lб e pegue todas as informaзхes que conseguir sobre seus planos.  PDAs, documentos... Traga-me tudo que encontrar. Estamos entendidos? Vб, isso nгo й um jogo para crianзas, procure nгo chamar muita atenзгo.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_1113">
+		<text>Fale-me sobre proteger o comerciante.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_11131">
+		<text>O comerciante precisa de seguranзa para um negуcio. Vocк nгo precisa fazer nada, apenas fique de olho para que tudo corra bem... OK? O comerciante estarб esperando por vocк no posto de guarda. Ele citarб mais detalhes a vocк.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_112">
+		<text>Hб um pequeno trabalho com os cientistas, este й o primeiro, e o segundo... Preciso de mais informaзхes sobre o acampamento dos mercenбrios. Faзa a sua escolha...</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_113">
+		<text>Hб um pequeno trabalho com os cientistas, este й o primeiro, e o segundo... o comerciante estб precisando de seguranзa. Vamos lб, ajude-nos.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_114">
+		<text>Preciso de alguйm que consiga informaзхes do acampamento dos mercenбrios. este й o primeiro, e o segundo... O comerciante estб precisando de seguranзa. Vamos lб, ajude-nos.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_115">
+		<text>Hб um pequeno trabalho com os cientistas. Й simples como um pedaзo de bolo: "traga-me isso", "faзa aquilo"...</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_117">
+		<text>O comerciante estб precisando de seguranзa para uma transaзгo comercial. Mais fбcil impossнvel.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_1112">
+		<text>Nгo, obrigado. Talvez outra hora.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_11121">
+		<text>Certifique-se de que nгo faзam um furo em seu bolso...</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_12">
+		<text>O PDA de um mercenбrio chamado Hook. Encontrei-o lб na estaзгo de tratamento de detritos.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_13">
+		<text>O PDA do mercenбrio apelidado de Ridge. Encontrei-o lб na estaзгo de tratamento de resнduos.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_15">
+		<text>O PDA de um homem conectado ao cliente dos mercenбrios.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_16">
+		<text>O PDA de um dos fundadores da Duty, o General Tachenko.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_161">
+		<text>Te pagarei uns 2.500.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_182">
+		<text>Informaзхes sobre o comerciante da Duty que vende armas а torto e a direito. Se for ъtil para algo. Eu te pagarei 4.000.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_19">
+		<text>Uma nota do esconderijo do grupo de Strelok destinada а Ghost.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_20">
+		<text>Uma nota do esconderijo do grupo de Strelok destinada а Strelok.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_21">
+		<text>Uma nota do esconderijo do grupo de Strelok destinada а Fang.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_22">
+		<text>Documentos da central de Jupiter, uma pasta coma ordem de evacuaзгo geral.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_23">
+		<text>Documentos da central de Jupiter, uma anotaзгo com um registro.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_152">
+		<text>Pague-me jб, vocк me deve 200.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_1522">
+		<text>Estб muito caro para mim.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_15221">
+		<text>Vocк verб</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_111">
+		<text>Pelo psicopata da barcaзa?... Vou te dar 1.000.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_2311">
+		<text>Negуcio feito.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_24">
+		<text>Documentos da central de Jupiter, um programa de entregas.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_241">
+		<text>Eu te dou 750,</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_2411">
+		<text>Negуcio feito.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_25">
+		<text>Documentos do complexo de Jupiter, uma carta com o decreto permitindo o transporte do Item 62 somente atravйs do subterrвneo.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_251">
+		<text>Eu te dou 750.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_2511">
+		<text>Negуcio feito.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_261">
+		<text>Ah. Com o Sultan no meio. Prefiro nгo me meter nisso.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_271">
+		<text>Vejamos... Sim, й um bom material. Pode me vende-lo?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_2711">
+		<text>Claro, para mim nгo servirб para nada mesmo.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_30">
+		<text>Um registro do acampamento de mercenбrio da central de tratamento.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_301">
+		<text>Te ofereзo 2.000.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_3011">
+		<text>Fechado.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_311">
+		<text>Heh... Уtimo, leve isso para o Beard ou para os cientistas. Nгo gosto de nenhuma mercadoria duvidosa... Nгo preciso de nada que me alerte sobre radiaзгo a noite.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_321">
+		<text>E aн aonde deveria estar. Nгo gosto de correr riscos desnecessбrios... Quem sabe? Pode ser que essa coisa origine um campo de anomalias no escuro... Por que vocк nгo leva aos cientistas para que o estudem melhor?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_331">
+		<text>E eu tenho uma situaзгo de guerra nuclear no armбrio da minha cozinha! Acho que vocк pode levб-lo aos cientistas - eles compram essas coisas.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_34">
+		<text>O PDA do Snag.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_341">
+		<text>Vamos ver... humm... Nada especial. Provavelmente ele limpou o esconderijo. Meu preзo й 200.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_3411">
+		<text>Aceito.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_35">
+		<text>O PDA da equipe do Sultan.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_351">
+		<text>Interessante... Poderia ser ъtil. Eu te dou 1.000.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_3511">
+		<text>Aceito.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_36">
+		<text>Mуdulo de memуria de um veнculo aйreo desconhecido.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_361">
+		<text>Uma descoberta interessante... Porйm nгo vai fazк-lo rico. Quem sabe eu serei o primeiro a ler a informaзгo contida? Meu preзo й 500.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_3611">
+		<text>Feito.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_99">
+		<text>Agora nгo.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_stages_0">
+		<text>Sobre aqueles detectores...</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_stages_1">
+		<text>Sim?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_stages_11">
+		<text>Aonde consigo encontrб-los?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_stages_111">
+		<text>Nгo sei, vocк terб que procurб-los.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_stages_12">
+		<text>Eu tenho os detectores.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_stages_121">
+		<text>E o que vocк ainda faz aqui? Leve-o para Novikov no bunker dos cientistas, prуximo a Jupiter.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_stages_13">
+		<text>Eu levei os detectores para Novikov.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_stages_131">
+		<text>Уtimo. Agora nуs esperamos que ele faзa os ajustes. Novikov prometeu que nos enviaria por alguйm de confianзa quando terminasse.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_start_dialog_12">
+		<text>Temos problemas. Nosso pequeno negуcio estб um pouco nos ares. Novikov fez um trabalho extraordinбrio com esses detectores: aumentou a distancia de funcionamento, ampliou a sensibilidade e os demais... Com este detector, pode dar mil voltas do que os outros caзadores de artefatos. Eu fechei negуcio com o Beard para que os outros stalkers que ele tenha contratado possam usar tambйm o novo detector.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_start_dialog_121">
+		<text>E?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_start_dialog_1211">
+		<text>O acordo foi o de repartir a encomenda em partes iguais, porйm os stalkers se negam a trazer nossa parte. Vocк precisa ir ver o Beard e convencк-lo a cumprir com o trato. Vocк tambйm quer a sua parte, nгo?</text>
+	</string>
+	<string id="zat_b30_stalker_rival_1_about_detector_0">
+		<text>Eu preciso do seu novo detector.</text>
+	</string>
+	<string id="zat_b30_stalker_rival_1_about_detector_1">
+		<text>Han. E eu preciso de uma arma de grande precisгo. Se vocк tem uma arma boa e cara. Eu faзo negуcio com vocк.</text>
+	</string>
+	<string id="zat_b30_stalker_rival_1_about_detector_11">
+		<text>Estб feito.</text>
+	</string>
+	<string id="zat_b30_stalker_rival_1_about_detector_12">
+		<text>Nгo, obrigado.</text>
+	</string>
+	<string id="zat_b30_stalker_rival_2_about_detector_0">
+		<text>Eu preciso do seu novo detector.</text>
+	</string>
+	<string id="zat_b30_stalker_rival_2_about_detector_1">
+		<text>Isso й uma ameaзa? Obviamente, Eu tambйm preciso.</text>
+	</string>
+	<string id="zat_b30_stalker_rival_2_about_detector_11">
+		<text>Nгo entende, verdade? E vocк й o ъltimo. Nгo me custou muito caro me livrar dos outros donos.</text>
+	</string>
+	<string id="zat_b30_stalker_rival_2_about_detector_111">
+		<text>O que vocк estб dizendo?... Vocк acabou com eles? Tome, leve e me deixe em paz.</text>
+	</string>
+	<string id="zat_b30_stalker_rival_2_about_detector_112">
+		<text>Hey. E se eu te mandar ir tomar no rabo?</text>
+	</string>
+	<string id="zat_b30_stalker_rival_2_about_detector_12">
+		<text>Em outra ocasiгo. Agora estou pedindo educadamente que me dк esse detector.</text>
+	</string>
+	<string id="zat_b30_stalker_rival_2_about_detector_123">
+		<text>E se eu te perguntar educadamente se vocк poderia ir tomar no rabo.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_about_cache_dialog_11">
+		<text>Stalker. Vocк quer dinheiro?</text>
+	</string>
+	<string id="zat_b33_stalker_snag_about_cache_dialog_111">
+		<text>Qual o trabalho?</text>
+	</string>
+	<string id="zat_b33_stalker_snag_about_cache_dialog_1111">
+		<text>Vocк verб. Eu escondi um saque num velho carro Zaporozhets, porйm um terremoto jogou o carro para dentro de uma fenda. Eu vi e o carro parece inalcanзбvel... Hб muitos mutantes lб, vocк conhece snorks. Acredite ou nгo eles me dгo medo mais do que os controladores. Aqueles snorks sгo repugnantes e asquerosos. Se vocк conseguir recuperar meu contкiner com a trava de seguranзa., repartimos todo o saque.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_about_cache_dialog_11111">
+		<text>Negуcio feito.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_about_cache_dialog_111111">
+		<text>Obrigado, stalker.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_about_cache_dialog_11112">
+		<text>Este й o seu contкiner?</text>
+	</string>
+	<string id="zat_b33_stalker_snag_about_cache_dialog_111121">
+		<text>Sim, й este? Caramba, vocк й demais!</text>
+	</string>
+	<string id="zat_b33_stalker_snag_about_cache_dialog_11113">
+		<text>Em outra ocasiгo.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_about_cache_dialog_111131">
+		<text>Й uma pena.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_about_cache_dialog_112">
+		<text>Nгo. Agora estou muito ocupado.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_about_cache_dialog_1121">
+		<text>Ok, como vocк quiser.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_about_cache_dialog_21">
+		<text>E ai? Alguma novidade?</text>
+	</string>
+	<string id="zat_b33_stalker_snag_about_cache_dialog_31">
+		<text>O que vocк quer? Nгo vк que estou ocupado?</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_0">
+		<text>Ei, essa й a minha arma! Aonde vocк a conseguiu, ladrгo? Me roubaram-na outro dia.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_1">
+		<text>Do que vocк estб falando? Comprei-a recentemente.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_11">
+		<text>Nгo sei de que maneira ou como ela foi parar em suas mгos, sу sei que me roubaram, Por favor, vocк nгo quer que eu me irrite, me dк a arma e ficamos todos contentes aqui.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_111">
+		<text>Certo, aqui estб. Nгo quero nenhum problema.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_1111">
+		<text>Me dк.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_112">
+		<text>Esta arma й minha.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_1121">
+		<text>Isso й, й isso?!... Estou te avisando, eu tenho conexхes! Todo mundo me conhece aqui! Vocк acha que vai durar muito na Zona com uma reputaзгo ruim, stalker? O que vocк me disse, hein? Nгo fique esperando ajuda de ninguйm por aqui, porque vocк nгo terб merda nenhuma!</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_11211">
+		<text>Foda-se!</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_2">
+		<text>Tem certeza de que й sua arma?</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_21">
+		<text>Й claro que eu tenho certeza.  Nгo й exatamente comum na Zona, agora й? E essa aн й minha com certeza.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_3">
+		<text>Vocк cometeu um engano. Deixe quieto e nуs o manteremos calmos.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_31">
+		<text>O quк? Eu cometi um engano?! Pense duas vezes antes de falar, otбrio! Se quiser guerra, todo mundo vai estar ao meu lado. Devolva-me a arma e estaremos em paz. Eu ficaria mais feliz se vocк nгo falar a ninguйm sobre a arma.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_311">
+		<text>O quк?! Jб pensou no fato de que eu posso colocar um buraco na sua cabeзa com essa porra de arma bem agora?</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_3111">
+		<text>Certo, acalme-se. Esta troca foi dura, mas estou calmo agora. Tambйm nгo й assim. Eu cometi um erro.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_refuse_task_0">
+		<text>Sobre o contкiner...</text>
+	</string>
+	<string id="zat_b33_stalker_snag_refuse_task_1">
+		<text>Vocк o encontrou?</text>
+	</string>
+	<string id="zat_b33_stalker_snag_refuse_task_11">
+		<text>Ainda estou trabalhando nisto.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_refuse_task_12">
+		<text>Eu decidi a nгo procurб-lo mais.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_refuse_task_121">
+		<text>Que pena...</text>
+	</string>
+	<string id="zat_b33_stalker_snag_refuse_task_2">
+		<text>Certo, deixe me ver...</text>
+	</string>
+	<string id="zat_b33_stalker_snag_refuse_task_21">
+		<text>Claro, espere um segundo...</text>
+	</string>
+	<string id="zat_b33_stalker_snag_refuse_task_22">
+		<text>Eu decidi ficar com o contкiner.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_refuse_task_221">
+		<text>Ah seu merda... Nгo pense que eu esquecerei isto!</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_0">
+		<text>Aqui estб o contкiner.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_1">
+		<text>Certo, vamos dividi-lo agora, certo?</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_11">
+		<text>Vamos.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_111">
+		<text>Vamos ver o que nуs temos aqui... Minha velha e letal Fora. Hб muito tempo atrбs meu tio a modificou com suas prуprias mгos. Como uma heranзa familiar... entгo, deixe-me a segurar.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_1111">
+		<text>Nгo, me dк!</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_11111">
+		<text>Uhh, bem, estб certo...</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_111111">
+		<text>Veja o que tem de mais.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_11112">
+		<text>Nгo, vocк jб tem coisas o suficiente.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_111121">
+		<text>Veja o que tem de mais.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_1112">
+		<text>Pegue para vocк, o que tem de mais?</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_112">
+		<text>Certo... Vamos ver. Um excelente kit mйdico. Bom o suficiente para ir pra cima de um urso ou atй mesmo um controlador. Й meu...</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_1121">
+		<text>Atualmente, eu poderia usar o kit mйdico!</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_11211">
+		<text>Hum, ok.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_112111">
+		<text>Veja o que tem de mais.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_11212">
+		<text>Nгo, vocк jб tem coisas o suficiente.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_112121">
+		<text>Veja o que tem de mais.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_1122">
+		<text>Pode ficar com isso. O que mais tem aн?</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_113">
+		<text>Certo... Uau. Eu duvido que alguma vez vocк tenha segurado uma arma dessas em suas mгos... Uma AKM-74/2U customizada. Eu dei a um cara, da Duty, vбrios kit mйdicos para consegui-la. Quando a Freedom ferrou tгo bonito com a Duty que eles mal haviam kit mйdicos. Desde entгo, esta belezinha me salvou trкs vezes... Definitivamente, й minha.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_1131">
+		<text>Poderia dar pra mim?</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_11311">
+		<text>Hum... Isto realmente parte meu coraзгo. Mas negуcios sгo negуcios, toma.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_113111">
+		<text>Veja o que tem de mais.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_11312">
+		<text>Nгo, vocк jб tem coisas o suficiente.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_113121">
+		<text>Veja o que tem de mais.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_1132">
+		<text>Certo, fique com ela. Prуximo?</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_114">
+		<text>Ooooh... Uma bela peзa valiosa. Este artefato vale uma montanha de ouro! Eu o peguei em uma anomalia, sabe. Eu caguei nas minhas calзas mais de uma vez como eu fiz, tambйm. Й o meu trofйu, ganho com sangue e lбgrimas.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_1141">
+		<text>Eu acho que eu preciso disso mais do que vocк.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_11411">
+		<text>Vocк estб me matando, cara... Pegue-o, vocк nгo esquecerб da minha generosidade.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_114111">
+		<text>Veja o que tem de mais.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_11412">
+		<text>Nгo, vocк jб tem coisas o suficiente.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_114121">
+		<text>Veja o que tem de mais.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_1142">
+		<text>Fique com isso, o que mais?</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_115">
+		<text>E por ъltimo... Um excelente capacete, feito com as mгos. Um tempo atrбs eu conheci um novo stalker no Cordon, um faz-tudo de verdade. Fez um monte de coisas legais atй que ele sumiu. Este capacete й uma dessas coisas. Vocк nгo vai achar um desses por aн!... Vou ficar com ele.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_1151">
+		<text>Veja, arrisquei minha vida contra uma horda de snorks... Eu mereзo o capacete.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_11511">
+		<text>Bom... certo. Bem, aproveite-o.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_115111">
+		<text>Veja o que tem de mais.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_11512">
+		<text>Nгo, vocк jб tem coisas o suficiente. Tenho que guardar algumas coisas para mim!</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_115121">
+		<text>Veja o que tem de mais.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_1152">
+		<text>Fique com isto.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_11611">
+		<text>Й isso aн cara, acabou tudo da minha pilhagem.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_116111">
+		<text>Estб certo entгo, te vejo depois.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_11621">
+		<text>Й isso aн. Mas eu nгo posso te deixar com as mгos vazias... Aqui, pegue minha pistola! No bom sentido й claro!</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_116211">
+		<text>Boa sorte.</text>
+	</string>
+	<string id="zat_b38_cop_about_himself_dialog_0">
+		<text>O que vocк faz?</text>
+	</string>
+	<string id="zat_b38_cop_about_himself_dialog_1">
+		<text>Eu protejo e sirvo. Eu sou como um detetive de polнcia e aqui eu sou uma espйcie de xerife. Eu vim aqui com o Beard, entгo ele decidiu montar um acampamento. Porque se adentrar se ninguйm ainda sabe o caminho para Pripyat? Aqui tem um monte de artefatos. Entгo ficamos.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_about_sci_guards_0">
+		<text>Quem eu posso contratar para proteger os cientistas?</text>
+	</string>
+	<string id="zat_b38_stalker_cop_about_sci_guards_1">
+		<text>Temos alguns amigos. O grupo de Spartacus para comeзar. Caras firmes, verdadeiros profissionais, mexem bastante com a lei. Se eles estiverem disponнveis, vocк nгo encontrarб ninguйm melhor para proteger.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_about_sci_guards_2">
+		<text>Eu tinha alguns nomes no passado, mas nгo mais. Nenhum dos stalkers por aqui irб fazer isso.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_about_sci_helpers_0">
+		<text>Quem eu posso contratar para tomar mediзхes para os cientistas?</text>
+	</string>
+	<string id="zat_b38_stalker_cop_about_sci_helpers_1">
+		<text>Tem um grupo de stalkers, Gonta um cara mandгo. Fale com ele, talvez ele se habilite... Tenho certeza que eles vгo querer dar uma pausa a ficarem atirando nos mutantes.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_about_sci_helpers_2">
+		<text>Se o Gonta estivesse aqui com seu grupo, Eu me encaminharia atй ele... Entгo, desde que ele nгo esteja... Nгo conheзo ninguйm adequado.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_b52_about_nimble_0">
+		<text>Vocк jб comprou as armas do Nimble? Vocк sabe se ele comercializa bens roubados?</text>
+	</string>
+	<string id="zat_b38_stalker_cop_b52_about_nimble_1">
+		<text>Acha que ele й falso o suficiente para fazer uma merda dessas pelas minhas costas?... Nгo. Nгo tem como. Nгo creio que Nimble seja contrabandista.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_b52_about_snag_0">
+		<text>Estou procurando pelo Snag. Vocк sabe onde eu posso encontrб-lo?</text>
+	</string>
+	<string id="zat_b38_stalker_cop_b52_about_snag_1">
+		<text>O Snag, claro, eu o conheзo. Um verdadeiro imbecil. O cara ali o viu nas docas. Deve ser sua nova residкncia. Vai lб.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_start_dialog_11">
+		<text>Olб stalker. Vocк gostaria de ganhar algum dinheiro e ajudar com nosso acampamento ao mesmo tempo?</text>
+	</string>
+	<string id="zat_b38_stalker_cop_start_dialog_12">
+		<text>Olб stalker. Continua aqui? Se continuar assim as sanguessugas vгo nos detonar.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_start_dialog_14">
+		<text>Conversaremos depois. Tenho que ver outra coisa.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_task_dialog_0">
+		<text>Que tipo de trabalho vocк pode me oferecer?</text>
+	</string>
+	<string id="zat_b38_stalker_cop_task_dialog_1">
+		<text>Й o seguinte: vбrios stalkers desapareceram. Ninguйm ouviu falar sobre eles, mas noutro dia eles encontraram um corpo. Sem sinal de violкncia, mas nгo tinha uma gota de sangue. Tremor vasculhou o cadбver, ele pode te dar mais detalhes... De qualquer jeito, devem ter sido as sanguessugas! Eu falei com o Danila para ir procurar o covil delas. Entгo nunca mais vi nenhum fio de seu cabelo.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_task_dialog_11">
+		<text>O que vocк quer eu faзa?</text>
+	</string>
+	<string id="zat_b38_stalker_cop_task_dialog_111">
+		<text>Vocк tem que encontrar o covil e se possнvel, o Danila. O trabalho й delicado, mas vai valer a pena. Certo?</text>
+	</string>
+	<string id="zat_b38_stalker_cop_task_dialog_1111">
+		<text>De acordo!</text>
+	</string>
+	<string id="zat_b38_stalker_cop_task_dialog_11111">
+		<text>Certo, certo, Eu marquei dois lugares para serem checados. Eu coloquei as coordenadas de um em seu PDA. Eu vou dar uma volta e entгo irei checar o segundo lugar. Entгo eu irei te informar o que eu encontrar.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_task_dialog_111111">
+		<text>Beleza.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_task_dialog_1112">
+		<text>Acho que nгo dб.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_task_dialog_11121">
+		<text>Volte aqui se mudar de ideia.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_task_dialog_12">
+		<text>Nгo estou interessado.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_task_dialog_2">
+		<text>O mesmo... Desde que haja um covil de sanguessugas por aqui, estaremos em apuros. E ainda nгo temos notнcias do Danila, o caзador. Vocк vai nos ajudar a solucionar isso?</text>
+	</string>
+	<string id="zat_b38_stalker_medic_bloodsucker_dialog_0">
+		<text>O Grouse me disse que vocк vasculhou o corpo de um dos stalkers desaparecidos. Vocк acha que foi uma sanguessuga que o matou?</text>
+	</string>
+	<string id="zat_b38_stalker_medic_bloodsucker_dialog_1">
+		<text>Sim, eu vasculhei... Assim como os outros corpos... Nenhuma outra criatura й capaz de fazer isso, que й chupar todo o sangue de um corpo humano, atй a ъltima gota. Todas as evidкncias apontam para um ataque de sanguessugas... Que outra conclusгo pode ter?</text>
+	</string>
+	<string id="zat_b38_stalker_medic_info_actor_dialog_0">
+		<text>Me diga sobre vocк.</text>
+	</string>
+	<string id="zat_b38_stalker_medic_info_actor_dialog_1">
+		<text>Sou um mйdico. Um cirurgiгo cerebral. Quer saber mais o quк? Posso examinar o hipotбlamo com a precisгo de um laser, mas nunca recebi uma ordem do tipo na Zona. Mas por aqui sou um mйdico comum, um de muitos, a quem sabe fazer o seu papel.</text>
+	</string>
+	<string id="zat_b38_stalker_medic_start_dialog_11">
+		<text>Estou escutando.</text>
+	</string>
+	<string id="zat_b3_stalker_mechanic_b207_about_dealer_pda_0">
+		<text>Vocк poderia decodificar uma caixa preta?</text>
+	</string>
+	<string id="zat_b3_stalker_mechanic_b207_about_dealer_pda_1">
+		<text>Bem... Esta nгo й minha especializaзгo. Todos esses grбficos e algoritmos... Eu nгo manjo. Traga-me algo baseado na fнsica simples e eu farei rapidamente... Mexe aqui, mexe ali e estб tudo pronto.</text>
+	</string>
+	<string id="zat_b3_stalker_mechanic_b52_about_nimble_0">
+		<text>Vocк acha que o Nimble estб mexendo com bens roubados?</text>
+	</string>
+	<string id="zat_b3_stalker_mechanic_b52_about_nimble_1">
+		<text>Espera aн... Nimble e bens roubados? Eu nunca iria comprar. Quando eu estava construindo meu escritуrio nгo ninguйm menos que Nimble quem me ajudou. Nгo me cobrou um centavo... Nгo importa o que o povo fala, eu sei que Nimble й um bom homem.</text>
+	</string>
+	<string id="zat_b3_stalker_mechanic_electro_toolkit_dialog_0">
+		<text>Tem algum trabalho para mim?</text>
+	</string>
+	<string id="zat_b3_stalker_mechanic_electro_toolkit_dialog_1">
+		<text>Ah, claro. Eu preciso de algumas ferramentas mas nгo tenho tempo de procurar. Equipamento й assim, gasta todo seu tempo. Se vocк me trouxer gambiarras ъteis, Eu irei lhe mostrar o que й aprimoramento. Vocк tambйm vai fazer um dinheirinho a mais.</text>
+	</string>
+	<string id="zat_b3_stalker_mechanic_electro_toolkit_dialog_11">
+		<text>Certo, vou ficar de olhos abertos.</text>
+	</string>
+	<string id="zat_b3_stalker_mechanic_electro_toolkit_dialog_12">
+		<text>Nгo. Talvez depois.</text>
+	</string>
+	<string id="zat_b3_stalker_mechanic_electro_toolkit_dialog_2">
+		<text>Ah, claro. Eu preciso de ferramenta, lembra? Um pouco de ajuda pra mim e um pouco de grana para vocк.</text>
+	</string>
+	<string id="zat_b3_stalker_mechanic_ufo_memory_repair_0">
+		<text>Vocк pode desbloquear um mуdulo de memуria?</text>
+	</string>
+	<string id="zat_b3_stalker_mechanic_ufo_memory_repair_1">
+		<text>Nгo cara, nгo posso te ajudar nisso. Todos esses eletrфnicos modernos, computadores... Nгo manjo. Ache alguйm mais novo... Ele vai mamar essas coisas como se fosse o leite materno.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_0">
+		<text>Vocк poderia quebrar um contкiner de aзo?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_1">
+		<text>Isso й uma coisa fбcil. Serviзo de primeira por apenas 500 mangos.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_11">
+		<text>Toma.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_111">
+		<text>Certo, deixe-me arrumar isto... Levanta isso, puxa aqui... E bam! Tudo pronto! Ainda nгo inventaram algo que nгo abra com um pй-de-cabra e martelo.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_12">
+		<text>Nгo tenho essa quantia.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_121">
+		<text>Volte quando tiver. Eu nгo irei a lugar nenhum!</text>
+	</string>
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_13">
+		<text>Eu irei pensar.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_drink_1_0">
+		<text>Tenho algumas bebidas. Vai um gole?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_drink_1_2">
+		<text>Nгo, parei de beber cara. Quando eu vi o Item 62 eu pensei "Й isso aн, estou tento pulos"... Veja, cachaзa sу te piora. Nгo faz parte de uma dieta saudбvel. E se eu partir, quem vai conseguir a muniзгo para sua Gauss?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_drink_2_0">
+		<text>Aqui outra garrafa para vocк.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_drink_3_0">
+		<text>Eu tenho uma terceira, se vocк precisar de mais uma.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_instruments_0">
+		<text>Eu trouxe suas ferramentas.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_instruments_1">
+		<text>Legal. Quais?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_instruments_11">
+		<text>As de trabalho bбsico.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_instruments_111">
+		<text>Beleza! Agora eu sу preciso das de trabalho profissional e de calibraзгo.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_instruments_12">
+		<text>As de trabalho profissional.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_instruments_121">
+		<text>Beleza! Agora eu sу preciso das de trabalho bбsico e de calibraзгo.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_instruments_13">
+		<text>As de calibraзгo.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_instruments_131">
+		<text>Beleza! Agora eu preciso das de trabalho bбsico e profissional.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_instruments_14">
+		<text>Nenhuma agora.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_instruments_141">
+		<text>Certo. Agora eu sу preciso das de calibraзгo e vai estar tudo bem.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_instruments_151">
+		<text>Certo. Agora eu sу preciso das de trabalho profissional e vai estar tudo bem.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_instruments_161">
+		<text>Certo. Agora eu sу preciso das de trabalho bбsico e vai estar tudo bem.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_instruments_171">
+		<text>Excelente! Й isso aн! Qual o seu segredo, cara? Agora posso fazer todas as modificaзхes! Fique olhando eu fazendo uma metralhadora usando isqueiros!</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_end_0">
+		<text>Eu trouxe as esquemбticas e as documentaзхes do item 62.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_end_1">
+		<text>Vocк conseguiu! Maneiro! Eu sabia que os bastardos nгo haviam tido tempo de destruir tudo. Deixe me ver... Hum... Entгo era isso que esses filhos da puta queriam. Уtimo! Preciso de algumas horas para ler tudo. Deixe-me com o fuzil Gauss, Eu irei consertб-lo. Espere aqui, eu preciso de um minuto para fazer esta belezinha cantar de novo!</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_make_battery_0">
+		<text>Preciso de baterias para meu fuzil Gauss.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_make_battery_1">
+		<text>O preзo para meu cliente predileto: 2,000.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_make_battery_11">
+		<text>Aqui estб.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_make_battery_12">
+		<text>Eu irei pensar.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_make_battery_13">
+		<text>Estou duro agora.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_repair_gauss_0">
+		<text>Vocк acabou de consertar o rifle Gauss?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_repair_gauss_1">
+		<text>Claro. O sistema de suprimento de energia estб claro como o dia. Se comeзar a emperrar, traga aqui para consertar.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_repair_gauss_2">
+		<text>Estou trabalhando nisso. Eu adoro por a mгo na massa...</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_show_0">
+		<text>Eu tenho um modelo de arma desconhecido.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_show_1">
+		<text>O que vocк quer dizer com "desconhecido"? Dк-me aqui, deixe me dar uma olhada...</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_show_2">
+		<text>Olhe... Jб viu algo assim antes?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_start_0">
+		<text>Ah, й vocк... Tivemos bastante tempo, heh. Eu tive um sonho de que vocк me trouxe algo do passado... Ainda bem que estou sуbrio...</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_start_1">
+		<text>Nгo foi essa arma aqui em seu sonho, foi?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_start_11">
+		<text>Bem, cara... Eu creio que nгo foi um sonho, depois de tudo. Essa arma й um fuzil Gauss, ou item 62 como era chamado oficialmente. Bem... Antigamente fui contratado para trabalhar na usina de Jupiter. Eu desenhava armas, se a memуria servir, "baseada em princнpios de aceleraзгo de projйteis por campo eletromagnйtico" Viu estas bobinas? Fui eu quem as fiz... Pena que eles abortaram o projeto em 2004. Nunca encontramos uma fonte de energia compacta o suficiente.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_start_111">
+		<text>O fuzil jб foi disparado antes. O que pode ter mudado?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_start_1111">
+		<text>Quem vai saber? Para ser sincero, eu nгo ousaria a colocar uma chave de fenda na bateria. Tem algum dano mecвnico no sistema de suprimento de energia. As esquemбticas poderiam vir a calhar agora. A oficina de testes em que eu trabalhei produziu toda a documentaзгo. Talvez as esquemбticas continuem lб... Curioso o suficiente, Eu ainda tenho a chave magnйtica da oficina...</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_start_11111">
+		<text>Vocк me daria a chave magnйtica?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_start_111111">
+		<text>Sim, bem... Porque nгo. Apenas nгo o perca. Se vocк me trouxer os documentos, Eu simplesmente iria consertar a arma.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_return_access_card_0">
+		<text>Aqui estб seu cartгo magnйtico, sгo e salvo.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_return_access_card_1">
+		<text>Obrigado. Me recordo dos bons velhos tempos.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_1111">
+		<text>Entгo?... Vocк, err.. sinta-se livre para trazer suas armas quebradas, trajes cheios de buracos e outros... Mesmo que eu nгo seja tгo bom quando eu estou sуbrio, irei fazer...</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_1112">
+		<text>Onde vocк estava? Eu estava ficando preocupado, procurei vocк por toda a parte. Onde estб aquele stalker, eu disse... Beleza, entгo?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_1113">
+		<text>Saudaзхes. Legal de vocк ter vindo. Sinta-se em casa... Vocк trouxe algo pare eu reparar ou para eu beber?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_1211">
+		<text>Bem! Legal! Minhas mгos nгo estгo acenando, mas minha cabeзa diz "Eu quero mais"... Sirva outro copo, rapaz.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_1212">
+		<text>Porque a demora? Abra a prуxima garrafa, vamos! Vamos beber pela nossa causa comum. A vodka me traz o gкnio mecвnico em mim, seriamente.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_1312">
+		<text>Eu queria que o Joker estivesse aqui, beberнamos por Barge juntos... Bem, ele deve descansar em paz. Ele era um bom homem, um verdadeiro "Duro de Matar". Forte como uma rocha.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_1313">
+		<text>Eu queria que o Barge estivesse aqui, beberнamos por Joker juntos... Bem, ele deve descansar em paz. Ele era um bom homem. Sempre te escutava, nunca precisou voltar atrбs nas palavras.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_1314">
+		<text>Barge... Joker... Como isso aconteceu? Entгo, uma coisa leva a outra...</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_1315">
+		<text>Hum?... O que temos aqui? Eu irei lidar com submetralhadoras blindadas amanhг... Nгo se preocupe isso nгo й nada. Tem um trago bom me esperando?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_14">
+		<text>Aquele sessenta e dois... Eu realmente gostaria de dar uma olhada nas esquemбticas dos circuitos.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_15">
+		<text>Uma escolha sбbia, meu caro. Deixe sua arma em boas condiзхes. E se me trouxer uma garrafa ou duas, Posso aprimorar melhor aqui. Quer um paraquedas costurado na sua espingarda? Eu nгo posso fazer isso, hehe.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_16">
+		<text>Veja isto! Eles prenderam um artefato eletroestбtico na bateria! Hah! Eu sabia que era alguma merda anфmala! No princнpio foi meio foda, mas agora eu posso martelar estas cйlulas.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_17">
+		<text>Precisa de algum trabalho legal?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_18">
+		<text>Isto estб uma merda. Acho que nгo leram documentos tйcnicos enquanto...</text>
+	</string>
+	<string id="zat_b3_tech_buddies_about_1">
+		<text>Sim, eu vim pra Zaton com dois amigos: Barge e Joker... Pessoal jovem, cheio de mijo e vinagre! Querendo ter em suas mгos montanhas de artefatos, mesmo morrendo por ser o primeiro, mais rapidamente... E eu olhei para aqueles olhos queimando e disse a si mesmo que isto nгo os tornaria bons. Coisas sгo boas de ter, й claro, mas nгo vale a pena cobrar por garras de mutantes.</text>
+	</string>
+	<string id="zat_b3_tech_buddies_about_11">
+		<text>Entгo o que aconteceu?</text>
+	</string>
+	<string id="zat_b3_tech_buddies_about_111">
+		<text>Bem... Estбvamos andando por aн uma noite, bebendo, e comeзamos a discutir o que irнamos fazer depois, se irнamos ou ficarнamos. E se fossemos, aonde irнamos. Todo mundo sacando a arma e apontando. As coisas ficaram tensas. Depois que a discussгo acabou, todos nуs fizemos seus prуprios caminhos, comigo incluso. Eu disse que eles nгo haviam vivido nada... e outras coisas desagradбveis. Cara... Sу se eu puder vк-los novamente, eu pediria desculpa pelo que aconteceu e pelo o que eu disse... Nуs irнamos sair juntos como antes e relembrando os velhos tempos.</text>
+	</string>
+	<string id="zat_b3_tech_buddies_apologies_barge_0">
+		<text>Eu posso pedir desculpa ao Barge se eu lhe encontrar.</text>
+	</string>
+	<string id="zat_b3_tech_buddies_apologies_barge_1">
+		<text>Isso seria bom.</text>
+	</string>
+	<string id="zat_b3_tech_buddies_apologies_both_0">
+		<text>Eu poderia pedir desculpa para os dois se lhes encontrasse.</text>
+	</string>
+	<string id="zat_b3_tech_buddies_apologies_both_1">
+		<text>Isso seria bom.</text>
+	</string>
+	<string id="zat_b3_tech_buddies_apologies_joker_0">
+		<text>Eu posso pedir desculpa ao Joker se eu lhe encontrar.</text>
+	</string>
+	<string id="zat_b3_tech_buddies_apologies_joker_1">
+		<text>Isso seria bom.</text>
+	</string>
+	<string id="zat_b3_tech_buddies_pda_0">
+		<text>Eu encontrei este PDA, veja.</text>
+	</string>
+	<string id="zat_b3_tech_buddies_pda_1">
+		<text>Por que eu precisaria de um PDA? De quem й?</text>
+	</string>
+	<string id="zat_b3_tech_buddies_pda_111">
+		<text>Barge estб morto?!... Nгo posso acreditar!... Ah, cara! Ele era duro como pedra... Ah, Barge... Descanse em paz. Eu espero que o Joker esteja bem pelo menos.</text>
+	</string>
+	<string id="zat_b3_tech_buddies_pda_112">
+		<text>Barge estб morto?!... Nгo posso acreditar!... Ah, cara! Ele era duro como pedra... Ah, Barge... E Joker, tambйm... Descansem em paz. Como isso foi acontecer?</text>
+	</string>
+	<string id="zat_b3_tech_buddies_pda_131">
+		<text>Eles estгo mortos!?... Nгo consigo acreditar!... Ah cara! Barge era duro como pedra... e Joker... Ah, Joker... Nгo irei rir mais das suas piadas. Espero que vocкs descansem em paz. Como isso foi acontecer?</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_about_0">
+		<text>Poderia me responder algumas perguntas?</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_about_1">
+		<text>Obviamente.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_about_1111">
+		<text>Quanto tempo atй a minha encomenda estar pronta?</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_about_11111">
+		<text>Depende de quгo complexa ela й. Geralmente leva um dia, аs vezes menos.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_about_1114">
+		<text>Me fale sobre vocк.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_about_11141">
+		<text>Nгo hб muito que falar. Eu me dei bem e me dei mal, assim como muitas pessoas. Pisei em algumas anomalias, fui refйm dos bandidos... Eu vim pra Zona jovem, hб muito tempo atrбs. Eu era um prevenido antes: antirradiaзгo, muniзгo perfurante, esse tipo de coisa. Entгo trabalhei para o Sidorovich... Pagando ele para salvar meu rabo. Conforme eu trabalhava para ele, Eu criei conexхes ъteis e me libertei assim que eu pude comeзar a fazer entregas exclusivas. Desde que eu estive apto a desviar tudo o que a vida atira em mim, mas eu acho que minha sorte estб acabando. Ao mesmo tempo, Nгo tenho o desejo se ferram minha bunda por uns tostхes a mais.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_about_1116">
+		<text>Obrigado, eu entendi.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_about_11161">
+		<text>Grato a ajudar.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_0">
+		<text>Vocк me vendeu uma arma roubada!</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_1">
+		<text>Do que vocк estб falando? Eu nгo mexo com material roubado. Eu apenas faзo negуcios diretos. Se vocк nгo acredita em mim, fale com qualquer um na base e eles lhe dirгo que eu sou um comerciante honesto e que nгo deixo ninguйm na mгo.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_11">
+		<text>Eu me encontrei com um stalker que estava certo de que esta arma era dele.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_111">
+		<text>E quem era?</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_1111">
+		<text>Snag.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_1112">
+		<text>O que й isso para vocк?</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_11121">
+		<text>Me interessa. Alguйm estб te enganando, stalker.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_12">
+		<text>Veremos.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_121">
+		<text>Alguйm estб te enganando, stalker.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_0">
+		<text>Estou aqui para pegar o que eu pedi.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_111">
+		<text>Aqui estб sua Steppe Eagle. Foi mais difнcil do que eu pensei. Algo como uma pistola modificada, mas eu consegui cumprir a tempo. Veja vocк mesmo - uma arma feita com as mгos, os componentes foram ajustados com uma precisгo inigualбvel. Imagine numa pistola а longa distвncia? Bem, й isso aн. Vocк me deve 2.800.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_1111">
+		<text>Bem, aqui estб.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_11111">
+		<text>Toma, foi bom fazer negуcios contigo.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_1112">
+		<text>Nгo tenho tudo isso.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_11121">
+		<text>Certo, Eu vou ficar com a arma por um tempo. Espero que vocк encontre o dinheiro logo.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_1113">
+		<text>Eu nгo quero comprar isto.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_11131">
+		<text>Se vocк recusar a coletar a ordem, nгo te facilitarei na prуxima. Eu irei ter que incluir uma taxa no pagamento adiantado.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_111311">
+		<text>Ainda assim, eu nгo vou recolher esta ordem.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_1113111">
+		<text>Certo, como quiser.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_1114">
+		<text>Eu irei pensar.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_11141">
+		<text>Claro, vocк quem decide. Eu irei ficar com a arma enquanto isso.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_112">
+		<text>Aqui sua super precisa  Steppe Eagle. Vocк me deve 2.800.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_121">
+		<text>Contemple a Alpina - com uma autкntica beleza. Posso te assegurar que nгo hб outra pistola igual na Zona. Um modelo ъnico, versгo muito limitada para uma ъnica unidade. Nгo foi fбcil obter, eu tive que me envolver com uns sуcios do outro lado do mundo. Um carregador maior, cano de ferro extra-sуlido, receptor feito com polнmero muito duro. Dк-me 2.800 e esta belezinha й sua.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_122">
+		<text>Aqui estб sua Alpina com o carregador maior. Dк-me 2.800 e esta belezinha й sua.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_131">
+		<text>Olha, estб March. Esta pistola pertenceu a um mercenбrio chamado Wolfhound. Uma 45 compacta com recuo insignificante. Wolfhound era um lixo cem por cento, mas ele conhecia suas armas, tenho que reconhecer isto. Eles dizem que seu truque favorito era explodir todos os membros da vнtima e depois a cabeзa antes que o corpo caнsse. Enfim, vocк me deve 2.800.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_132">
+		<text>Aqui estб sua March de disparo rбpido. Vocк me deve 2.800 a mais.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_211">
+		<text>Aqui estб - a Cutter, uma submetralhadora. Deixe me dizer: nгo ligue para a aparкncia. Й um modelo novo, mas nгo possui produзгo em sйrie ainda. Й um protуtipo, fresquinho da fбbrica. Os desenvolvedores fizeram uma arma de curta-distвncia: A combinaзгo de um alto calibre com disparo rбpido e precisгo. Entгo irб custar 8000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_212">
+		<text>Sim, aqui a Cutter, uma submetralhadora de disparo rбpido. Vocк me deve 8.000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_221">
+		<text>Aqui um belo espйcime - a Carabineer. Uma verdadeira espingarda do exйrcito. Capaz de disparo automбtico proporcionando um bom antirrecuo, sistema anti-impacto. Adicione 8.000 paus em minha mгo que ela й sua.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_222">
+		<text>Aqui estб a Carabineer, uma espingarda automбtica. Me pague 8.000 e ela й sua.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_231">
+		<text>Creio que й justo o que vocк precisa. Eliminator, um desenvolvimento de ъltima geraзгo. Todo o estoque dessa arma foi enviado para a Бfrica Central, mas eu consegui uma "amostra" de alguns amigos especiais. Uma espingarda automбtica. Ela й sua por 8.000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_232">
+		<text>Claro. A espingarda automбtica Eliminator com um carregador maior. Por 8.000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_311">
+		<text>Claro. A Behold Storm, uma submetralhadora e um lanзa-granadas tudo em uma arma. Esta arma й um protуtipo de uma versгo de uma arma convencional designada para operaзхes na Zona. Inovaзгo tecnolуgica dos nossos irmгos eslavos... Pague-me 16.000 e ela й toda sua.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_312">
+		<text>Claro. Aqui a Storm, um submetralhadora com lanзa granadas por 16.000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_321">
+		<text>Aqui estб - a GP37, um rifle de assalto da nova geraзгo. Precisa e confiбvel vem com uma mira уtica integrada. Pertencia a um soldado da ONU. Seu grupo foi enviado para investigar a Zona. Entгo, a coisa ficou preta... 16.000 no rifle e ele й seu.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_322">
+		<text>Aqui estб a GP37, um rifle de assalto da nova geraзгo. O preзo й 16.000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_331">
+		<text>Espere um segundo. Aqui estб um rifle modular FT-200M, dos fabricantes de armas dos Belgas cabeзudos. Precisa pau-pra-toda-obra, para destros e canhotos, vem com uma mira уtica e com um lanзa-granadas. Eu peguei de uns observadores da ONU sem sorte... Custarб 16.000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_332">
+		<text>Aqui estб um rifle modular FT-200M. Custarб 16.000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_411">
+		<text>Aqui estб a Tide. Baseada num rifle de precisгo silencioso, foi especificamente desenvolvida para as unidades militares enfrentarem os zumbis. A Tide sacrifica cadкncia por forзa de penetraзгo, permitindo ao sniper abater um por um sem ter que se aproximar. Contudo, tornou-se claro que stalkers sozinho sгo o suficiente para parar os zumbis na barreira, porйm o fuzil nunca entrou em produзгo maciзa. Essa belezinha й sua por 16.000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_412">
+		<text>Aqui a Tide, um rifle sniper de silencioso com maior poder de parada. Me dк 16.000 e aproveite.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_421">
+		<text>Aqui, uma SVU2-A, um rifle sniper curto com uma taxa de disparo elevada. Eu comprei do Mac, um guarda lendбrio da Freedom. Ele jurou que nгo hб mais nenhuma dessas na Zona. Й um item exclusivo, pelo menos por essas bandas. Sairб por 16.000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_422">
+		<text>Sim, a SVU2-A, um rifle de longo alcance com uma cadкncia superior. Й seu por 16.000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_431">
+		<text>Claro, olhe para a Lynx aqui. Feita pelas mгos de um expert local. Ele estб morto agora, entгo nгo haverб quaisquer cуpias. Parece como qualquer outro rifle, mas pratique por um tempo e verб a diferenзa. Tem uma combinaзгo perfeita de precisгo e poder de parada. Dк-me os 16.000 restante e esta belezinha serб sua.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_432">
+		<text>Sim, a Lynx, um rifle de longo alcance. Me dк 16.000 que ela й sua.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_511">
+		<text>Veja aqui. Eu consegui pegar tudo da lista: um CS-3a com um capacete. O capacete nгo й muito especial em sim, mas ele permite a instalaзгo um complexo tбtico mуvel, que inclui uma visгo noturna de alta qualidade e um sistema infravermelho ativo. Agora. A CS-3a й a verdadeira beleza. Uma proteзгo excelente contra tiros e anomalias, isto й raro num traje leve como este. Toda a bagaзa irб custar 32.000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_512">
+		<text>Claro, um conjunto de blindagem com um CS-3a e com um capacete tбtico por 32.000 no total.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_611">
+		<text>Especialmente para vocк, um traje SEVA. Tudo como vocк pediu: mуdulo de respiraзгo fechada, resistкncia tйrmica, com circuito elйtrico protetor, e materiais exteriores anticorrosгo. E com contкiner de artefatos adicionais. Um traje "tenho que ter" para qualquer stalker. Queime 24.000 que ele й todo seu.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_612">
+		<text>Aqui o traje SEVA. Preciso de 24.000 e ele serб todo seu.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_711">
+		<text>Aqui estб, um exoesqueleto de combate extraordinбrio. A melhor proteзгo que vocк pode obter na Zona contra balas, garras ou fragmentos de granadas com exceзгo de veнculos blindados. Mas tambйm aumenta seu peso, com uma razгo, й claro. 48.000 e й seu, incluindo defei... Digo, baterias e servomotores.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_712">
+		<text>Aqui estб um exoesqueleto de combate extraordinбrio. 48.000 e й seu.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_0">
+		<text>Eu quero fazer um pedido.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_1">
+		<text>Sem problemas. Do que vocк precisa?</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_11">
+		<text>Uma pistola.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_111">
+		<text>Claro. Serгo 3.500, mas preciso de um adiantamento de 700.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_1111">
+		<text>Certo, aqui estб.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_11111">
+		<text>Eu entrarei em contato assim que seu pedido estiver pronto.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_1112">
+		<text>Eu nгo estou com dinheiro.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_11121">
+		<text>Bem, por favor, volte quando vocк tiver a grana.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_1113">
+		<text>Sabe, mudei de ideia.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_11131">
+		<text>Bem, se vocк finalmente decidir fazer um pedido, eu estarei sempre aqui.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_112">
+		<text>Vocк nгo й um cliente muito fiбvel, entгo a pistola irб custar 4.200. E irб precisar de um adiantamento de 1.400.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_113">
+		<text>Temo que as melhores pistolas jб foram vendidas. Se quiser algo regular, vб ver o Owl.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_12">
+		<text>Uma arma de curto alcance.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_121">
+		<text>Claro. Vai custar 10 paus, e eu irei precisar de um adiantamento de 2.000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_122">
+		<text>Vocк negou de coletar seu ъltimo pedido... Entгo este irб custar 12,000, e eu irei precisar de um adiantamento de 4,000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_123">
+		<text>Hum... Vocк sabe, eu provavelmente nгo poderei te ajudar. A demanda й demasiada.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_13">
+		<text>Uma arma de assalto.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_131">
+		<text>Algo de grosso calibre e com alta cadкncia de disparo, certo... O preзo em geral й de 20,000, com um adiantamento de 4,000. O que vocк diz?</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_132">
+		<text>Vocк й um cliente duro de roer. Eu terei que cobrar 24.000 com um adiantamento de 8.000. Certo?</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_133">
+		<text>Agora й uma hora ruim... Os militares estгo fervendo no Cordon. Alguйm atacou o posto de controle deles, o que deixa as coisas mais difнceis de serem negociadas.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_14">
+		<text>Uma arma de longo alcance.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_141">
+		<text>Para vocк eu posso conseguir o melhor por apenas 20,000, mas vocк terб que me pagar 4,000 de adiantamento.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_142">
+		<text>Trabalhar para vocк leva um certo risco... Mas vou tentar consegui-la para vocк por 24,000, mas vocк precisarб pagar 8,000 adiantados.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_143">
+		<text>Desculpe, este tipo de arma estб difнcil de arranjar. Meu contato para a coisa de franco atirador... Digamos que ele estб indisposto.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_15">
+		<text>Um traje blindado.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_151">
+		<text>Sim, eu posso pensar em algo... adequado. Ira te custar 40,000, mas vocк terб de pagar um adiantamento de 8,000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_152">
+		<text>Sim, eu posso pensar em algo... adequado. Vocк recusou a pegar seu ъltimo pedido, entгo o preзo sairб por 48,000 e vocк terб que pagar 16,000 adiantados.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_153">
+		<text>Eu nгo poderei conseguir algo melhor que o ъltimo traje para vocк. Este era o ъnico top de linha.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_16">
+		<text>Um traje com mуdulo de respiraзгo fechada.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_161">
+		<text>Um pedido especial... Nгo serб fбcil de conseguir, nгo sem uma boa grana. Eu posso tentar conseguir essas belezinhas por 30,000, mas vou ter de pedir 6,000 adiantados.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_162">
+		<text>Vocк me deixou na mгo no ъltimo pedido, entгo terei de pensar duas vezes nessa. Eu posso conseguir essas belezinhas por 36,000, mas eu vou ter de pedir 12,000 adiantados.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_163">
+		<text>Quase me matei para conseguir o ъltimo. Creio que nгo serei capaz de repetir tal faзanha.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_17">
+		<text>Um exoesqueleto.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_171">
+		<text>. Vocк deve ter pensado bastante para ter escolhido isso. Eu posso conseguir em minhas mгos uma versгo de combate, mas vai te custar 60,000. Caro, eu sei, mas vale a pena. Mas eu preciso de 12,000 em minha mгo agora. </text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_172">
+		<text>Vocк nгo me tratou bem no seu ъltimo pedido, entгo este irб lhe custar 72.000. Mas agora eu preciso de 24.000 na minha mгo.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_173">
+		<text>Nгo dб. Desde que eles fecharam a fбbrica, o jeito em que os exoesqueletos sгo encontrados sгo nos corpos... Que nгo й o meu mйtodo.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_18">
+		<text>Nada agora.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_2">
+		<text>Minha loja estб fechada agora. Certos problemas com os envios.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_start_11">
+		<text>Ola. Eu sou o Nimble. O pessoal vem aqui para conseguir armas ъnicas. Modelos raros, protуtipos... essas coisas. E tambйm material de elite, as ъltimas inovaзхes em trajes blindados e de combate. Eu checo cada item pessoalmente, entгo a qualidade й garantida.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_start_12">
+		<text>Oi, vocк quer fazer um pedido?</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_start_13">
+		<text>Olб.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_start_14">
+		<text>Seu pedido serб entregue logo.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_start_15">
+		<text>O pedido estб concluнdo. Venha pegб-lo.</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_0">
+		<text>Ei! Vocк й o amigo do Snag?</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_1">
+		<text>Sim, eu o conheзo.</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_11">
+		<text>Ele me disse que vocк nos traria uns itens...</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_111">
+		<text>Eu nгo lembro de termos planejado isto.</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_111111">
+		<text>Sim, claro. Nуs nгo somos vadias para ficar esperando isto do Snag.</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_1111111">
+		<text>Atй mais.</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_11112">
+		<text>Nгo!</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_111121">
+		<text>Pense bem agora. Se vocк tem os dedos da frente, sabe que й melhor vocк fazer o que as pessoas te pedem quando estiver em minoria.</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_1111211">
+		<text>Eu disse que nгo, porra!</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_2">
+		<text>Nгo, eu nгo o conheзo.</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_11">
+		<text>Ah, merda... Estou muito ferido... Ajude-me, cara. Preciso de um kit mйdico, nгo irei durar por muito tempo...</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_111">
+		<text>Pega aqui esse kit mйdico.</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_1111">
+		<text>Ufa! Obrigado, cara. Eu estava a ponto de morrer numa Caldeira. Esses cгes mutantes estгo muito assanhados... Aqui, tome meu detector. Poderб vir a calhar algum dia... Obrigado por salvar minha vida, muito obrigado! Acho que irei respirar lб na base.</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_11111">
+		<text>Boa sorte.</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_1112">
+		<text>Ufa! Obrigado, cara. Eu estava a ponto de morrer numa caldeira. Esses cгes mutantes estгo muito assanhados... Aqui, tome este artefato. Poderб vir a calhar algum dia... Obrigado por salvar minha vida, muito obrigado! Acho que irei respirar lб na base.</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_112">
+		<text>Nгo posso, eu preciso disso.</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_113">
+		<text>Eu nгo tenho kit mйdicos.</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_12">
+		<text>Obrigado de novo! Sem vocк eu estaria adubando flores agora. </text>
+	</string>
+	<string id="zat_b53_artefact_hunter_2_gathering_artefacts_11">
+		<text>Stalker! Rбpido, venha ajudar o Petrukha! Olha ali, na borda da fenda! Ele foi ferido por uma anomalia! Seu traje nгo lhe serviu de nada! E eu, nem tenho um. Petrukha e eu fizemos uma vaquinha para comprar este... Se eu der mais um passo, serб meu fim! Ajude-nos, por favor!!</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_2_gathering_artefacts_111">
+		<text>Ok, fique onde estб. Eu tentarei.</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_2_gathering_artefacts_112">
+		<text>Vб lб vocк mesmo.</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_2_gathering_artefacts_12">
+		<text>Obrigado por salvar o Petrukha. Droga, por que nгo economizamos por um traje melhor!?</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_2_gathering_artefacts_13">
+		<text>Saia de perto de mim. Vocк deixou o Petruha morrer... Ele era o dobro do que vocк sempre vai ser.</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_2_gathering_artefacts_131">
+		<text>Te vejo na prуxima.</text>
+	</string>
+	<string id="zat_b57_barman_reward_dialog_0">
+		<text>Eu dizimei o covil das sanguessugas.</text>
+	</string>
+	<string id="zat_b57_barman_reward_dialog_1">
+		<text>Уtimo. Vocк vingou nossos irmгos mortos, Deus os abenзoe... Vocк ganhou esta recompensa.</text>
+	</string>
+	<string id="zat_b57_barmen_about_bloodsucker_lair_dialog_0">
+		<text>Eu encontrei um covil de sanguessugas em baixo do complexo de antenas.</text>
+	</string>
+	<string id="zat_b57_barmen_about_bloodsucker_lair_dialog_1">
+		<text>Certo. Este covil deve ser destruнdo. Deixe me ver... Quem diabos iria saber quantas sanguessugas existe nesses tъneis. Talvez pudйssemos envenenб-las com gбs. Eu me lembro de que o Owl falou algo sobre tanques de gбs. Fale com ele, pois nгo nos damos bem... Se vocк conseguir o tanque de gбs, conecte-o ao sistema de ventilaзгo do complexo e acabarб com elas em minutos.</text>
+	</string>
+	<string id="zat_b57_barmen_about_bloodsucker_lair_dialog_11">
+		<text>Certo, irei fazer isto.</text>
+	</string>
+	<string id="zat_b57_barmen_about_bloodsucker_lair_dialog_12">
+		<text>Irei pensar.</text>
+	</string>
+	<string id="zat_b57_barmen_about_bloodsucker_lair_dialog_13">
+		<text>Jб consegui o tanque de gбs.</text>
+	</string>
+	<string id="zat_b57_barmen_about_bloodsucker_lair_dialog_131">
+		<text>Uau... Vocк tem habilidades, cara.</text>
+	</string>
+	<string id="zat_b5_bandit_hide_dialog_11">
+		<text>Ah, aqui estб nosso stalker. Estбvamos esperando por vocк.</text>
+	</string>
+	<string id="zat_b5_bandit_hide_dialog_111">
+		<text>Qual й o plano?</text>
+	</string>
+	<string id="zat_b5_bandit_hide_dialog_1111">
+		<text>Iremos а uma reuniгo. Vocк nгo terб de fazer muito, eu espero. Fique esperando tranquilo.</text>
+	</string>
+	<string id="zat_b5_bandit_hide_dialog_11111">
+		<text>OK.</text>
+	</string>
+	<string id="zat_b5_bandit_hide_dialog_21">
+		<text>Hah. Eles devem ter se arrependido. Bela habilidade no gatilho, stalker. Tome.</text>
+	</string>
+	<string id="zat_b5_bandit_hide_dialog_211">
+		<text>Boa sorte.</text>
+	</string>
+	<string id="zat_b5_bandit_hide_dialog_31">
+		<text>Seu fracassado, infeliz! Vocк fudeu algo fбcil, agora dк o fora.</text>
+	</string>
+	<string id="zat_b5_bandit_hide_dialog_311">
+		<text>Certo.</text>
+	</string>
+	<string id="zat_b5_bandit_hide_dialog_41">
+		<text>Por que a pressa?</text>
+	</string>
+	<string id="zat_b5_bandit_hide_dialog_411">
+		<text>Nada nгo.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_11">
+		<text>O Owl te enviou aqui?</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_111">
+		<text>Sim. Ele me disse que vocк precisava de ajuda.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_1111">
+		<text>Eu preciso de ajuda, isto й verdade. Suponho que vocк servirб.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_11111">
+		<text>Certo, do que se trata?</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_111111">
+		<text>Me dк proteзгo durante uma reuniгo de negуcios. Sу isso.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_1111111">
+		<text>Eu consigo fazer isto.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_21">
+		<text>Fique aн e me dк cobertura.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_211">
+		<text>Certo.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_31">
+		<text>Falarei com o chefe, somente.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_311">
+		<text>Certo.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_41">
+		<text>Obrigado, stalker. Vocк ajudou muito. Eu pressenti que aqueles cuzхes iriam me ferrar de um jeito ou de outro. Eles tinham seguido todo o caminho! Tome, para pagar seus problemas.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_411">
+		<text>Boa sorte.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_42">
+		<text>Vocк й um bom matador, mas um pйssimo guarda. Mas eu prometi te pagar, entгo o farei.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_421">
+		<text>Boa sorte.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_43">
+		<text>Vocк й um bom matador, mas um pйssimo guarda. Mas eu prometi te pagar, entгo eu irei.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_431">
+		<text>Boa sorte.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_44">
+		<text>O que vocк quer? Eu nгo tenho nada que agradecer a vocк. Eu mal sobrevivi... Fique longe de mim!</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_441">
+		<text>Boa sorte.</text>
+	</string>
+	<string id="zat_b5_stalker_commander_dialog_11">
+		<text>E aн? Beleza. Obrigado por ter vindo. Queremos nos aproximar cuidadosamente dos bandidos e escuta-los. Entгo iremos ver o que acontece.</text>
+	</string>
+	<string id="zat_b5_stalker_commander_dialog_111">
+		<text>Entendido</text>
+	</string>
+	<string id="zat_b5_stalker_commander_dialog_21">
+		<text>Obrigado, stalker. Pegue isso de nуs... O barman vai te dar a recompensa principal.</text>
+	</string>
+	<string id="zat_b5_stalker_commander_dialog_211">
+		<text>Certo.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_0">
+		<text>Me diga sobre sua vida aqui.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1">
+		<text>Nгo tem sido um passeio no parque, com certeza... O que quer saber exatamente?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1111">
+		<text>O que vocк faz aqui?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11111">
+		<text>Vigiamos os stalkers. Tenho que admitir que metade de vocкs sejam mais crianзas do que homens. Vocк vem pra Zona com desejos toscos, ou para dar uma de herуi, ou somente porque a vida lhe trata mal. Vocк nгo percebe que tudo o que te espera aqui, й a morte, na maioria das vezes. Й disso que nos ocupamos. Pegamos um no Lixгo, tomamos seus equipamentos e o mandamos de volta pro Cordon . Os que sгo sбbios voltam para o exterior. Aqueles homens durхes que voltam aqui, nуs os colocamos sob nossa proteзгo e cobramos uma taxa. Estou te dizendo, ninguйm ousa vir ao nosso territуrio: nem o exйrcito, nem os mercenбrios, nem mesmo os mutantes.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1112">
+		<text>O que o trouxe ao centro da Zona?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11121">
+		<text>Minhas pernas. Viemos aqui pelos stalkers, o quк mais? Sem nуs aqui para manter a ordem, seria um autentico caos. Vocк saqueia, vocк guarda, com certeza, mas quem vai lhe cobrar depois? Vocк sabe... a paz e os impostos. Como se um estivesse а espreita de uma anomalia e nуs observando, dando cobertura contra mutantes. Se ele sair ileso, pegamos um pedaзo... sу para manter a ordem, vocк deve entender.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1113">
+		<text>Como vocк virou um chefe?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11131">
+		<text>Por onde eu devo comeзar? Creio que tenho que voltar atй a йpoca do colegial. Eu tinha um amigo, um melhor amigo, se vocк me entende. Saнamos juntos fumando, bebendo e por que nгo? Tudo o que querнamos eram mais emoзхes. Entгo ele se meteu com drogas: algumas ervas no princнpio, entгo ele chegou a cocaнna, quando ele comeзou a fazer dinheiro. Eu lhe disse, "Vocк tem que sair dessa merda, Tolyan, antes que seja tarde." Mas ele nгo me ouviu. Ele ficou tгo mal um dia desses que, me encontrei com seus vendedores e os matei... Daн me ferrei e dei o fora, porque estava havendo uma guerra de gangues... Dei o fora, comecei meus negуcios, e fui preso... Quando saн, deixei minhas coisas e vim para a Zona. Passei alguns meses como bandido, depois fui promovido. E agora estou aqui, fazendo a lei local.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1114">
+		<text>O que vocк pensa sobre os stalkers?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11141">
+		<text>Eles sгo muito diferentes, creio eu. Alguns revoltados nгo duram uma semana aqui, outros sгo uns burros... e outros permanecem neutros, aqueles em que a vida os chutou pelos dois lados do Cordon. Fudemos com o primeiro tipo, cobramos do segundo tipo. Por ъltimo, o terceiro tipo, bem, nуs nгo nos confrontamos muito. Й uma pena que vocк аs vezes nгo possa pedir para eles darem o fora...</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1115">
+		<text>Ah, esquece.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11151">
+		<text>Como quiser.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_barmen_under_actor_dialog_0">
+		<text>Agora o Beard irб trabalhar para nуs.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_barmen_under_actor_dialog_1">
+		<text>Vocк sabe o que eles dizem, "a vaca й nossa, vamos tirar leite." Faзa-lhe uma visita de vez em quando para lembrб-lo de pagar os impostos.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_actor_dialog_0">
+		<text>Beard tem um pedido importante de um artefato chamado Bъssola.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_actor_dialog_1">
+		<text>Devemos interceptar o artefato. Beard nгo irб molhar as calзas por qualquer coisa. Tenho a impressгo que esta coisa irб lhe salvar... para continuar nos negуcios, й isso aн. Dк-me Bъssola assim que encontrб-lo.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_give_actor_dialog_0">
+		<text>Encontrei a Bъssola. Pega.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_revert_actor_dialog_0">
+		<text>Eu me recuso a buscar a Bъssola para vocк.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_revert_actor_dialog_1">
+		<text>Ei imbecil, vocк decidiu seguir esta linha. Se vocк disser que estб apto para algo e vocк me ferrar, bem, nгo irei te apreciar mais. E as pessoas de quem eu nгo gosto tendem a nгo apreciar a vida. Entendeu?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_revert_actor_dialog_11">
+		<text>Foda-se.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_detectors_actor_dialog_0">
+		<text>Eu irei pegar esses detectores dos stalkers.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_detectors_actor_dialog_1">
+		<text>Beleza. Enquanto isso, eu irei conversar com nosso cliente em outros canais.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_refuse_af_dialog_0">
+		<text>Um papagaio me disse que vocк entregou a Bъssola para o Beard. Agora me ouзa. Se vocк disser que estб apto para algo e vocк me ferrar, bem, nгo irei te apreciar mais. E as pessoas de quem eu nгo gosto tendem a nгo apreciar a vida. Entendeu?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_refuse_af_dialog_1">
+		<text>Foda-se.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_ruin_actor_dialog_0">
+		<text>Agora Beard estб sem detectores atualizados.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_ruin_actor_dialog_1">
+		<text>Maravilhoso. Quando vocк estiver ausente, Eu mesmo me ocuparei de cortar seus outros canais. Agora o cliente й nosso, inteiramente. Fale com o Beard e diga que o Sultan lhe disse "Oi".</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_0">
+		<text>Beard me deve grana. Owl disse que vocк poderia me ajudar.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_1">
+		<text>Eu creio que posso... Aqui meu pensamento: arruinaremos o Beard e pegaremos o posto dele, vocк receberб seu dinheiro e uma parte da negociaзгo. Combinado?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_11">
+		<text>Trato feito.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_111">
+		<text>Agora seu trabalho й descobrir o que estб deixando o Beard ocupado. Se Cortarmos seu canal de suprimentos iremos conseguir. </text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_12">
+		<text>Eu irei pensar.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_121">
+		<text>Apenas lembre-se: Pensar faz mal para a saъde.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b52_about_nimble_0">
+		<text>Acha que o Nimble estб vendendo material roubado?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b52_about_nimble_1">
+		<text>Nimble? Nunca ele iria fazer isto. O Owl que mexe com conteъdo quente. Tudo o que vocк vender para ele, ele irб comprar sem perguntas.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b52_about_snag_0">
+		<text>Estou procurando pelo Snag. Vocк sabe aonde eu posso encontrб-lo?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b52_about_snag_1">
+		<text>Sim. O pessoal o viu nas docas alguns dias atrбs. Eu queria cobrб-lo pelo dinheiro que ele me deve, mas eu continuo esquecendo isso.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_11">
+		<text>Tenho um trabalho para vocк. Meu pessoal precisa ver um comerciante... Vocк sabe negуcios. A Zona estб fervendo, entгo eu achei que uma arma a mais nгo irб machucar. Assegure-se de que estб merda vб bem.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_111">
+		<text>OK.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_1111">
+		<text>Certo. O pessoal irб te encontrar na estaзгo de guardas florestais. A coordenadas estгo em seu PDA.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_11111">
+		<text>Certo.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_112">
+		<text>Nгo me interessa.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_31">
+		<text>Que porra vocк faz aqui? Vб para a estaзгo de guardas florestais.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_311">
+		<text>Certo.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_41">
+		<text>Jб se decidiu? Estб conosco ou o quк?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_411">
+		<text>Estou contigo.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_412">
+		<text>Estou na minha.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_intro_0">
+		<text>Lembre-se: Sou o Sultan. Tudo que acontece aqui estarб sobre meu controle logo. Se vocк quiser ter uma boa vida, terб de trabalhar para mim. Se vocк nгo quiser, irб viver em uma imundice. Й assim que funciona Mano.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_start_dialog_11">
+		<text>Do que vocк precisa?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_start_dialog_21">
+		<text>O que te traz aqui?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_start_dialog_31">
+		<text>Sim?</text>
+	</string>
+	<string id="zat_b7_killed_self_actor_dialog_0">
+		<text>Eu matei os stalkers.</text>
+	</string>
+	<string id="zat_b7_killed_self_actor_dialog_1">
+		<text>Uau, mano... merda, vocк й um matador pesado. Vindo aqui e acabando com eles daquele jeito, porra. Porque eu te contratei... Vocк nгo nos trouxe dinheiro, sу problemas... Controle-se um pouco, certo?</text>
+	</string>
+	<string id="zat_b7_stalker_squad_leader_bunker_guarding_0">
+		<text>Vocк estб gostando de trabalhar para os cientistas?</text>
+	</string>
+	<string id="zat_b7_stalker_squad_leader_bunker_guarding_1">
+		<text>Nada mal. Nenhum problema ainda, tudo parece em ordem. Os cientistas me deram equipamentos, entгo estamos nos saindo bem.</text>
+	</string>
+	<string id="zat_b7_stalker_squad_leader_bunker_guarding_2">
+		<text>Excelente! O trabalho й simples e eles nos pagam bem. Ninguйm veio procurar os cientistas enquanto estбvamos aqui. Nem mesmo os monstros.</text>
+	</string>
+	<string id="zat_b7_stalker_squad_leader_come_with_me_0">
+		<text>Estou reunindo um esquadrгo para ir atй Pripyat. Vai querer ir?</text>
+	</string>
+	<string id="zat_b7_stalker_squad_leader_come_with_me_1">
+		<text>Nгo... Nгo tenho objetivos em Pripyat, diferente dos outros... E tambйm temos um trabalho a fazer, protegendo os cientistas... Talvez vocк possa levar aquele soldado ali dentro. Ele teria uma chance de procurar pelo seu pessoal, e iria nos acalmar um pouco. O cara й legal, mas aqui nгo й o melhor lugar para ele.</text>
+	</string>
+	<string id="zat_b7_stalker_squad_leader_come_with_me_2">
+		<text>Nгo... Nгo tenho objetivos em Pripyat, diferente dos outros... E tambйm temos um trabalho a fazer, protegendo os cientistas...</text>
+	</string>
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_0">
+		<text>Vocк gostaria de trabalhar para os cientistas?</text>
+	</string>
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_1">
+		<text>Qual й o trabalho?</text>
+	</string>
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_11">
+		<text>Proteger o bunker deles.</text>
+	</string>
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_111">
+		<text>Bem, proteger, Ehh... nгo serб a primeira vez. Eu aceito. Iremos ao bunker assim que estivermos prontos.</text>
+	</string>
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_12">
+		<text>Fazer mediзхes em anomalias.</text>
+	</string>
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_121">
+		<text>Mediзхes? Tenho cara de um tйcnico de laboratуrio? Isto nгo se encaixa no meu perfil.</text>
+	</string>
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_2">
+		<text>Vamos falar sobre isso depois. Tem muita gente nova no pedaзo, temos de colocб-los em seus lugares daн sim pensaremos sobre o trabalho.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_actor_choose_dialog_1">
+		<text>Certo, vamos ferrar com essa porra. Vamos dar-lhes o que eles merecem!</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_actor_teleport_dialog_11">
+		<text>Certo.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_actor_teleport_dialog_2">
+		<text>Й melhor encontrarmos algum abrigo agora. Й uma maldita emissгo! </text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_15">
+		<text>Vamos ferrar com essa porra. Dar-lhes o que eles merecem! Fique tranquilo e tudo sairб bem!</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_16">
+		<text>Que porrada, hein?! Aqui sua moeda, cara. Eu te avisarei se tivermos mais "negуcios".</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_18">
+		<text>Putz, cara... que merda. Vocк й um matador pesado. Vindo aqui e acabando com eles como uma merda. Por que eu te contratei...  Vocк nгo nos rendeu dinheiro, sу problemas... Acalme-se um pouco, certo?</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_19">
+		<text>Vocк nгo entendeu?! Cadк os stalkers?!... Que porra que foi essa? Vocк foi mal, nгo? Nгo poderia ter sido nada mais! Todo meu pessoal iria conseguir! Agora com seu rabo idiota perdemos aliados. O que vocк estб olhando? Esvazie seus bolsos agora! </text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_20">
+		<text>Temos que ir para o barco.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_31">
+		<text>Aqui estб, chefe. Desculpe, mas nгo estou com vontade de conversar agora.</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_actor_choose_dialog_0">
+		<text>Eu irei te ajudar!</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_actor_choose_dialog_1">
+		<text>Уtimo. Nуs iremos arrumar o "encontro" assim que vocк sair. Quando eles aparecerem, vamos soltar as bombas de todos os lados. Fique a uma distвncia razoбvel, para nгo ter fogo aliado.</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_actor_choose_dialog_11">
+		<text>OK.</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_actor_choose_dialog_12">
+		<text>Nгo, nгo estou apto para isto.</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_dialog_11">
+		<text>E aн, stalker? Estou ocupado agora. Vamos conversar depois, certo?</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_dialog_12">
+		<text>Obrigado pelo aviso. Talvez vocк concorde com nosso plano? Uma уtima chance de pegб-los por trбs, certo?</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_dialog_13">
+		<text>Iremos emboscб-los. Quando o fizermos, vocк solta аs azeitonas nos babacas por trбs.</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_dialog_14">
+		<text>Esses cuzхes sгo melhores quando mortos. Obrigado pelo toque.</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_dialog_15">
+		<text>Obrigado por nos ajudar.</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_dialog_31">
+		<text>Olб. Ouзa, se nгo for urgente, conversaremos depois, certo?</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_leader_start_dialog_11">
+		<text>Oi.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_info_about_soroka_gone_0">
+		<text>Eu encontrei Magpie. Ele estб na estaзгo de Yanov passando-se por "Flint". Ele jб era.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_info_about_soroka_gone_1">
+		<text>Jб era? Que pena. Certamente eu amaria ter machucado aquela barata eu mesmo... Entretanto, isto й uma boa notнcia. Aqui, tome isto, sou um homem de palavra.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_info_about_soroka_gone_11">
+		<text>Obrigado.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_leave_zone_0">
+		<text>Eu quero sair da Zona.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_leave_zone_1">
+		<text>Tem certeza? Nгo tem como voltar depois.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_leave_zone_11">
+		<text>Eu tenho certeza. Vamos nessa.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_leave_zone_12">
+		<text>Bem, prefiro permanecer.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_191">
+		<text>OK, pegue o dinheiro. Eu nгo quero brigar.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_1911">
+		<text>Hum? Seu babaca, me dк tudo que vocк tem! Vocк perdeu e nгo me apareзa mais aqui!</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_19111">
+		<text>Estou saindo.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_192">
+		<text>Nгo pode fazer!</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_2">
+		<text>Vamos dar uma olhada... Com a sua saъde? Bem, se vocк estб mal, entгo eu devo estar morto ou algo parecido...</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_start_dialog_13">
+		<text>Ouзa, tem um negуcio urgente. Um comerciante que conheзo quer finalizar um negуcio. O ъnico problema й que seus clientes nгo sгo de confianзa, entгo ele precisa contratar um seguranзa. Vocк estб interessado?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_start_dialog_131">
+		<text>Sim.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_start_dialog_1311">
+		<text>OK. O comerciante estarб esperando por vocк, no posto da guarda florestal, ele vai te passar os detalhes.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_start_dialog_132">
+		<text>Na verdade nгo.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_start_dialog_1321">
+		<text>Atй vocк. Se vocк nгo demorar a mudar de ideia, o trabalho vai dar pra ganhar alguma grana.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_0">
+		<text>Que tipo de trabalho vocк pode me oferecer?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_1">
+		<text>O tipo de fazer dinheiro. Agora pense: por que eu estou te pedindo? Vocк й novo aqui e sem contatos, mas se vocк joga suas cartas corretamente vocк pode rapidamente ganhar o respeito do pessoal daqui. Quer saber o que eu estou pensando?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_11">
+		<text>Sim, claro.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_111">
+		<text>Tudo bem, entгo ouзa. Temos um plano para extorquir alguns dos stalkers de Beard. Й mamгozinho com aзъcar. Na boquinha da noite, vocк e nossos rapazes vгo atй Shevchenko, e antes que esses turistas percebam a gente dб o bote, vocк os leva para um passeio. Nуs ficamos com a massa, e vocк com o recheio... Entendeu? Tudo certo entгo. Tб vendo o Knuckles em pй ali? Ele vai te dar todos os detalhes.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_12">
+		<text>Na verdade nгo.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_121">
+		<text>Muito ruim. Tire algum tempo e pensar sobre isso... Amigo, se vocк sabe o que й bom pra vocк, entгo vai voltar aqui.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_2">
+		<text>O tipo que vocк apreciaria se vocк quiser ir a lugares ... Quer saber o que eu estou pensando?</text>
+	</string>
+	<string id="zat_b3_tech_buddies_pda_11">
+		<text>O PDA de Barge. Eu encontrei seu corpo nas cavernas sob a fazenda queimada.</text>
+	</string>
+	<string id="zat_b3_tech_buddies_pda_12">
+		<text>Este й o PDA do Joker. Eu o encontrei perto de alguns ossos descarnados, nгo muito longe do Carvalho-Pinho.</text>
+	</string>
+	<string id="zat_b3_tech_buddies_pda_121">
+		<text>O Joker?!... Isso й impossнvel! Caramba, eu estou tгo arrasado... Joker estб morto... Oh Joker, nгo vamos mais sorrir de suas piadas... Descanse em paz... Espero, ao menos, que Barge esteja bem...</text>
+	</string>
+	<string id="zat_b3_tech_buddies_pda_122">
+		<text>O Joker?!... Isso й impossнvel! Caramba, eu estou tгo arrasado... Joker tambйm estб morto... Oh Joker, nгo vamos mais sorrir de suas piadas... Descanse em paz... e vocк tambйm, Barge... Como vocк chegou a esta...</text>
+	</string>
+	<string id="zat_b3_tech_buddies_pda_13">
+		<text>Barge e Joker. Encontrei um num esqueleto perto do Carvalho-Pinho e o outro em um cadбver nas cavernas sob a fazenda queimada.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_surge_1">
+		<text>Para ser honesto com vocк, nгo hб muito coisa pra contar. Das emissхes sгo especialmente perigosas e quase sempre fatais. Vocк pode sentir elas vindo gradualmente, na mudanзa do clima, mas passa logo apуs ter batido o seu pico. Aos primeiros sinais da sua chegada, tem que correr para a proteзгo mais prуxima - uma caverna, algo de concreto, tijolos ou aзo... Como alguns outros, eu posso sentir uma emissгo aproximando quando minhas costas comeзam a doer. Quanto а natureza das emissхes, nгo tenho nada de ъtil para dizer - eu simplesmente nгo sei.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_start_dialog_11">
+		<text>Precisa de itens? Informaзхes?... Ou talvez vocк queira vender informaзхes?</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_actor_choose_dialog_0">
+		<text>Sultan disse que vocк estб planejando depenar os stalkers. Conte comigo.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_actor_choose_dialog_2">
+		<text>Уtimo. Arrasta teu rabo atй Shevchenko depois da meia noite - nуs estaremos esperando por vocк. Mas nгo vб aparecer por lб amanhг de manhг.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_13">
+		<text>Ah, й vocк, mano. Entгo, o que vocк e Sultan combinaram?</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_14">
+		<text>Entгo... Chegue а barcaзa depois da meia noite, mas antes do sol nascer - nуs estaremos esperando por vocк.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_actor_teleport_dialog_0">
+		<text>Acho melhor eu ficar com vocк. Vamos esperar dar meia-noite e entгo vocк pode me mostrar o caminho para Shevchenko.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_actor_teleport_dialog_1">
+		<text>Nгo tem problema, fique por perto. Te levar atй a barcaзa nгo й um problema.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_actor_teleport_dialog_12">
+		<text>Realmente... Eu vou cuidar de algumas coisas.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_info_1">
+		<text>Tenho grandes clientes fora da zona que regularmente estгo a fim de artefatos especнficos, que devem ser entregues dentro de um perнodo especнfico de tempo. Vocк me traz o que eu peзo e eu te pago bom dinheiro por isso. Tenha em mente que essas ordens sгo muito importantes para mim, й por isso que eu procuro agentes comissionados diversos de cada vez... Vocк obtйm o valor total somente se vocк entregar primeiro.</text>
+	</string>
+	<string id="zat_b18_noah_plateau_way_112">
+		<text>Atravйs da fazenda queimada. Hum... Quem й vocк, afinal?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_15311">
+		<text>Eles tambйm chamam este lugar de Floresta de Ferro. O helicуptero caiu aqui com um forte estrondo da batida nos postes de eletricidade. Nenhum dos milicos sobreviveu... Mesmo se eles escapassem, eles nunca conseguiriam sair vivos. Os poltergeists adoram perseguir pessoas em anomalias elйtricas... Aqueles cretinos respondem ao menor movimento, mas tenho certeza de que vocк conhece.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_15411">
+		<text>Ouзa... Depois que o helicуptero caiu, cinco indivнduos do exйrcito foram vistos lб. Aparentemente, eles ainda conseguiram sair do pвntano com кxito... Chegar nesse lugar nгo й grande coisa, basta ficar longe da бgua e manter-se em terra firme. E vocк tambйm vai precisar de proteзгo quнmica. Entгo, se vocк estб pensando em ir lб. Compre alguns antнdotos do mйdico.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_1311">
+		<text>Pena que meus amigos, Joker e Barge nгo estгo presentes... Terнamos um inferno de uma vez. Йramos como irmгos, sempre tнnhamos apoio um do outro... Como foi acontecer tudo isso?... Eu ainda estou aqui, mas sei lб em que inferno eles possam estar...</text>
+	</string>
+	<string id="zat_b3_tech_buddies_about_0">
+		<text>Conte-me sobre Joker e Barge.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_111213">
+		<text>Eu jб tenho alguma coisa de lб.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_1112131">
+		<text>Comece a falar... Vocк conseguiu algo para mim?</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_11111">
+		<text>Bem, isso explica tudo. Eu o conheзo. Ele sempre foi um trapaceiro, mas ultimamente ele ficou realmente fora de mгo, enganando os stalkers assim... Ele precisa ser colocado em seu lugar.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_116">
+		<text>Preciso de informaзхes do acampamento dos mercenбrios. Nгo й tгo difнcil quanto parece.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_111">
+		<text>OK, eu estarei esperando... Tenha em mente que o trabalho й urgente - tem que ser feito dentro de dois dias.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_28">
+		<text>O PDA do Mensageiro de Sultan.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_281">
+		<text>Nгo й tгo interessante. Vou te dar 500 por ele.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_2811">
+		<text>OK.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_26">
+		<text>O protуtipo do detector. Gostaria de comprar de volta?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_27">
+		<text>Documentos secretos, eu os encontrei na ponte junto а coluna motorizada. Quer dar uma olhada?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_31">
+		<text>Um artefato estranho. Eu o encontrei na estaзгo da dragagem.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_32">
+		<text>Um artefato estranho. Eu o encontrei perto da estaзгo de Yanov.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_33">
+		<text>O artefato Coraзгo do Oasis.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_151">
+		<text>Vamos botar pra quebrar.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_152">
+		<text>Espere.</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_actor_start_dialog_0">
+		<text>Um grupo de stalkers estб planejando vir atй vocк. Fique em alerta.</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_actor_start_dialog_1">
+		<text>Ratos, bastardos... Tudo bem, nуs vamos dar-lhes uma recepзгo calorosa... Escuta, tente convencer de que vocк estб do lado deles. Faзa isso e vocк poderб nos ajudar a combatк-los... Nуs te pagaremos bem por isto...</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_1111">
+		<text>Eu nгo dou a mнnima para o que vocкs combinaram. Passa para cб!</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_1111212">
+		<text>Ok, aqui vai.</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_21">
+		<text>Hah, Nгo?... Nгo damos a mнnima pra essa merda. Passa para cб, idiota!</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_11111">
+		<text>Calma... Calma... Aqui estб.</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_actor_start_dialog_2">
+		<text>Ratos bastardos... Tudo bem, nуs vamos dar-lhes uma recepзгo calorosa... Escute, ajude-nos a acabar com eles. Nos te daremos uma boa recompensa.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_21">
+		<text>Uma surra?... Nгo se envolveu, entгo nгo levarб sua parte. Eu te avisarei se surgir mais negуcios.</text>
+	</string>
+	<string id="zat_b5_stalker_commander_dialog_31">
+		<text>Vocк й um inъtil... Nгo espere uma recompensa. Bem, pelo menos vocк veio aqui conversar, isso й alguma coisa.</text>
+	</string>
+	<string id="zat_b5_stalker_commander_dialog_311">
+		<text>Atй logo.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_give_actor_dialog_1">
+		<text>Bom garoto. Agora vamos colocar os parafusos no nosso pequeno cliente. Ouvi que Beard deu aos seus stalkers alguns detectores muito poderosos projetados para encontrar artefatos raros. Entгo, vocк precisa se juntar aos stalkers, e fazer com que estes detectores passem despercebidos pra dentro de seu bolso. Pegou?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_2">
+		<text>Nгo tem chance de pegб-lo. Eu tentei acabar com as rotas de seu fornecimento, mas aquele bundгo barbudo conseguiu uma Bъssola de qualquer maneira. Parece que ele vai ficar bem... por enquanto.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_1111211">
+		<text>[continuar...]</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_1141111">
+		<text>[continuar...]</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_11">
+		<text>[continuar...]</text>
+	</string>
+	<string id="zat_b22_barmen_about_vampire_actor3_0">
+		<text>Grouse estб morto. Parece que Tremor o matou... mas ele tambйm estб morto.</text>
+	</string>
+</string_table>
